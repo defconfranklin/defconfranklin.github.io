@@ -41,6 +41,7 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
     <div class="navbar-nav">
       <a class="nav-item nav-link" href="index.html">Home</a>
+      <a class="nav-item nav-link" href="About.html">About</a>
       <a class="nav-item nav-link" href="CyberTroops.html">Volunteers</a>
       <a class="nav-item nav-link" href="almanack.html">Almanack</a>
       <a class="nav-item nav-link" href="team.html">Team</a>
@@ -55,11 +56,86 @@
       <div class="col-1">
         </div>
         <div class="col">
-          Questions? Contact us at defconfranklin [at] gmail [dot] com. We look forward to hearing from you! 
-      </div>
+          <h2>Contact Us</h2>
+          <p class="text-body-secondary">Questions, volunteer interest, or press inquiries -- we look forward to hearing from you.</p>
+
+          <form id="contact-form" novalidate>
+            <div class="mb-3" style="position:absolute;left:-9999px" aria-hidden="true">
+              <label for="cf-website">Leave this field blank</label>
+              <input type="text" id="cf-website" name="website" tabindex="-1" autocomplete="off">
+            </div>
+            <div class="row g-3">
+              <div class="col-md-6">
+                <label for="cf-name" class="form-label">Name <span class="text-danger">*</span></label>
+                <input type="text" class="form-control" id="cf-name" name="name" required>
+              </div>
+              <div class="col-md-6">
+                <label for="cf-organization" class="form-label">Organization</label>
+                <input type="text" class="form-control" id="cf-organization" name="organization">
+              </div>
+            </div>
+            <div class="mt-3">
+              <label for="cf-email" class="form-label">Email <span class="text-danger">*</span></label>
+              <input type="email" class="form-control" id="cf-email" name="email" required>
+            </div>
+            <div class="mt-3">
+              <label for="cf-message" class="form-label">Message</label>
+              <textarea class="form-control" id="cf-message" name="message" rows="5" placeholder="How can we help?"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary mt-3" id="cf-submit">Send message</button>
+            <div id="contact-form-status" class="mt-3" role="status"></div>
+          </form>
+        </div>
       <div class="col-1">
         </div>
       </div>
+
+      <script>
+      (function () {
+        "use strict";
+        var CONTACT_API = "https://jas.waterwatchcenter.org/api/contact";
+        var form = document.getElementById("contact-form");
+        var status = document.getElementById("contact-form-status");
+        var submitBtn = document.getElementById("cf-submit");
+        form.addEventListener("submit", function (e) {
+          e.preventDefault();
+          var hp = form.querySelector('[name="website"]');
+          if (hp && hp.value.trim()) {
+            status.textContent = "Thanks -- we'll be in touch.";
+            status.className = "mt-3 text-success";
+            form.reset();
+            return;
+          }
+          submitBtn.disabled = true;
+          status.textContent = "Sending…";
+          status.className = "mt-3 text-body-secondary";
+          fetch(CONTACT_API, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              name: document.getElementById("cf-name").value,
+              organization: document.getElementById("cf-organization").value,
+              email: document.getElementById("cf-email").value,
+              category: "DEF CON Franklin Contact",
+              message: document.getElementById("cf-message").value,
+            }),
+          })
+            .then(function (res) {
+              if (!res.ok) throw new Error("Request failed: " + res.status);
+              status.textContent = "Thanks -- we'll be in touch.";
+              status.className = "mt-3 text-success";
+              form.reset();
+            })
+            .catch(function () {
+              status.textContent = "Something went wrong. Please try again, or email defconfranklin [at] gmail [dot] com directly.";
+              status.className = "mt-3 text-danger";
+            })
+            .finally(function () {
+              submitBtn.disabled = false;
+            });
+        });
+      })();
+      </script>
 
 
 <!-- code from the exmaple bootstrap footers. Footer template. Keep in all pages -->
@@ -70,6 +146,7 @@
     <div class="col align-items-center">
       
       <span class="mb-3 mb-md-0 text-body-secondary"> Website maintained by the Cyber Policy Initiative at the University of Chicago</span>
+      <span class="d-block text-body-secondary small"> Questions? <a href="Contact.html">Get in touch on our Contact page</a> -- we look forward to hearing from you!</span>
     </div>
 
   </footer>
