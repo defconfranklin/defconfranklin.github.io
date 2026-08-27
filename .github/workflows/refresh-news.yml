@@ -1,0 +1,34 @@
+name: Refresh water-sector news feed
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch latest articles
+        run: python3 scripts/fetch_news.py
+
+      - name: Commit news.json if changed
+        run: |
+          if git diff --quiet -- news.json; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git commit -m "Refresh water-sector news feed"
+          git push
