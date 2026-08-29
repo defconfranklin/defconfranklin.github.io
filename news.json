@@ -1,6 +1,12 @@
 {
-  "generated_at": 1787878455.002757,
+  "generated_at": 1788015127.0109322,
   "articles": [
+    {
+      "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
+      "source": "NBC Chicago",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFZ0UDdiV0VYQnk0aU1peTdMS2JJb1lfTTAyUjBjV3BnVV9Zd01waVNJZlJ3VHRXMmJ2OXRVMjdmbTFFMzQ0NGNYUmNqNVV0NE50NmdlTUYtc0lteHJOaWltTHRVOFY4OEZFMTc4WUwwMEhVRlhJSGtObGt2VnlZWnNzTmN3NG1PYWxxTWFPT0hCQkhaVDM3Tk5falBxQ0llUjdmZzNlRlR5NldCdVBRT3hzNHF4M3lJTzNCTEF1R1h5MzJjd1l4am5EMlF3Wk1scXfSAdoBQVVfeXFMTWowQThfZ3JHWUs3dFhqUEJ2SjZiNkR4WVY4UjlOcHRnM1JuT0d3eUtCOE5Vd29lOEJmUjYtX1lYUU1xZWZtbVpZVi1OVldZQXliOGdlUFVrVGg4TXdpXzIyTWYtQUlBbVN3QVp2UjAxNWN4cWRzM2RjM01SRDk5cXIyeV93bEs3X3FJbzNKQUVscmRVWjFDSGh1cVdBMlZVNkphYWkycHBZSWdlazBqeHVBcW9vMXQ0aW9saEtCcnFGZ2Z2S1U1cllCb1hkTFpuRW02eEg1d013YXc?oc=5",
+      "pub_ts": 1787872134.0
+    },
     {
       "title": "Government admits water system cyberattacks were worse than first reported",
       "source": "NBC Chicago",
@@ -8,16 +14,10 @@
       "pub_ts": 1787786126.0
     },
     {
-      "title": "FBI probe into cyberattacks on US water systems expands after tech supplier is targeted",
+      "title": "FBI probe into water system cyberattacks expands after tech supplier is targeted",
       "source": "The Independent",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckdObW1LTWttd0V3WWlfbjRBLXNRa0syWjJOU2VJRUpzMHlSOVRJc2VjRS1rZHF6UEdYbTBaWWozSmV2UnFFUUhoV3E4VVZxS2w1R0FIa1IwQzFJMFZEZWZuLXBkdUNTVG5Fc1R4a2pDekJRMGZsdjgzZ0RDYlJuaC14LWhEQ1dzNmxjUjdPUVRtQ0d1S2c?oc=5",
       "pub_ts": 1787777580.0
-    },
-    {
-      "title": "CISA: Hackers Targeted Over 100 Internet-Exposed Water Systems",
-      "source": "Hackread",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVzIwYVIwNnNkQThKc3doVVlBUlFjckRJdUl3LVEyS3RYTUo0Sjd6cUt2VVZZYmF2bk03QV9uMElGQ3NJYkVTSlhKOHBYQlA5QWl2WE52QmJCZjMtYm04cHdBMzdWZmZTOW15eG9RWGFyaUh4VWMtWDd3ZDhmRFk?oc=5",
-      "pub_ts": 1787767058.0
     },
     {
       "title": "U.S. Water Systems Are Already Under Cyberattacks. Now A Key Technology Supplier Has Been Hacked Too.",
@@ -38,10 +38,10 @@
       "pub_ts": 1787753640.0
     },
     {
-      "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
-      "source": "SecurityWeek",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01rYTQ2UnBLVjRubjd1NjVwWWQwancyTzM3RXhQNEJyeXNzSFl1d0czb2pEZ0diVU1udGRCbjBSTHMtb1c4R2xvLVRqbmVsd2ZEdGJOQ2s5YzJaV2JFdWRQekFKSjU1QVc1bVdOM040QXlpc0RKUWNYMW8zcEhzdmxibHd6eDlZZ3JHdGliNXFpVkVibUNlV3k1NmtudW5sYjYzNzlMUdIBrAFBVV95cUxPUUhnc05nYkxfYUdwWlFtb25GY0dLcUxtdEJFckYycmlGc0p6NHc4ckZJMWJZd29yRU5ZQlRpSUJJS1oxdDZVcEllcFR6MEpfMkJ3U2RsOXZIODktTW1DUHAzMDhIR1UxSTlzY2p6TWJoWHloRC0tTWwzWmdFbzFSYzI5TklOa0s0c2xKZEpsMW1IcGprblhjenY1WmlkdHNHeTZneDg0cmhMUXRJ?oc=5",
-      "pub_ts": 1787743790.0
+      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "source": "95 KQDS",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1k0MUlBQ2J0anRid3luNlVab29pam5icU9NUDROV0VYcEJNQ0ZhY2tHaVJub3JZZlUxNDBQVTl4VGtPUzBuWHFaMTZUbm8xaDJIbHlzdTFtMFhUQlVpdG92U1BLREJjbGRsQ09peWVfTEh1dEhhNDRDYmxUc3dtUHBUTXNpdVRlSGRwT0tNVmpXS19HN1F0QmlkSjVFSTkxM1BRdzlpTlpfZVRNcmNOal9CN3MwZ3B2NVU2elJkYmlsUQ?oc=5",
+      "pub_ts": 1787742310.0
     },
     {
       "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
