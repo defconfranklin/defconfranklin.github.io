@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788129769.5679917,
+  "generated_at": 1788154158.526766,
   "articles": [
     {
       "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
@@ -20,6 +20,12 @@
       "pub_ts": 1787777580.0
     },
     {
+      "title": "CISA: Hackers Targeted Over 100 Internet-Exposed Water Systems",
+      "source": "Hackread",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwVzIwYVIwNnNkQThKc3doVVlBUlFjckRJdUl3LVEyS3RYTUo0Sjd6cUt2VVZZYmF2bk03QV9uMElGQ3NJYkVTSlhKOHBYQlA5QWl2WE52QmJCZjMtYm04cHdBMzdWZmZTOW15eG9RWGFyaUh4VWMtWDd3ZDhmRFk?oc=5",
+      "pub_ts": 1787767058.0
+    },
+    {
       "title": "U.S. Water Systems Are Already Under Cyberattacks. Now A Key Technology Supplier Has Been Hacked Too.",
       "source": "International Business Times",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWnFHdkRKNWUxcFNmSWhxLW9ES2ppeE5RNXJvQ2d2NHpxenlQOVhPM3ZQUFdzdmlGNXF0Q1dSQnktd2x4SkRpSWk2UVhxVFdjY1BnQ2g2Y0doem1GcHBvak9ubnJEYTZFaG0zTzhVZXF0WFlPS05iVllEVGVJaGxIbVUtYUVkeUxXU29yUUUyS3hsU3VEc3Q4UkNTQWR5ZmxJRWJDeldteUVjYjNOQTZWXy1leVN4R3NKYUVRZUZRM0U3MFRMeWc?oc=5",
@@ -36,12 +42,6 @@
       "source": "Algemeiner.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXJuVFpYdnZ5YUFFOVlTZ05BYTRuUjFUbGNGelNFTnJKaGw4UkU3WlMyUDF2eVVhbnBlNG4tWW1qYkREZWNsY3pOX2g2OFpvcExOeG5WaWZYUEJGc1V0bTZMRjZVVW1DM0VGTWduQWpEdmZxSnZpMVhuVEFncGlZb2JEUWtoZnhXc2FrWWd6anZIbVV5ejlKZmtzbWpPaWZLaV9pRmwzdmQzMEpXSE83R3AtUEtBcVE?oc=5",
       "pub_ts": 1787753640.0
-    },
-    {
-      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-      "source": "95 KQDS",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY1k0MUlBQ2J0anRid3luNlVab29pam5icU9NUDROV0VYcEJNQ0ZhY2tHaVJub3JZZlUxNDBQVTl4VGtPUzBuWHFaMTZUbm8xaDJIbHlzdTFtMFhUQlVpdG92U1BLREJjbGRsQ09peWVfTEh1dEhhNDRDYmxUc3dtUHBUTXNpdVRlSGRwT0tNVmpXS19HN1F0QmlkSjVFSTkxM1BRdzlpTlpfZVRNcmNOal9CN3MwZ3B2NVU2elJkYmlsUQ?oc=5",
-      "pub_ts": 1787742310.0
     },
     {
       "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
