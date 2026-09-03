@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788409193.056834,
+  "generated_at": 1788463029.2446153,
   "articles": [
     {
       "title": "Town of Lunenburg residents asked to conserve water, school closed after dam breach",
@@ -8,7 +8,19 @@
       "pub_ts": 1788404745.0
     },
     {
-      "title": "South Africa\u2019s largest bulk water utility allegedly crippled by cyberattack",
+      "title": "Lunenburg, N.S., residents told to conserve water after Dares Lake dam breach",
+      "source": "CTV News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSm9JaTN6RkhnNDhieFVWRkdpUzRZWnUxM1B2VHBqc1EwZzhLREI3bVA1NlJjb0hrWXNaQWhuYm41TmlTeHdBNThGeVpzdFdDZWQyR1hxM1Q1djhfX3ZJNUtyTWtWLTlwYVhVRHllbDh4ZDRtU0ZiUXBoNlA4ZnRZcDU1eTlCdXVjcjZTU0xGQ0xRcVBzblJSQ0JRV0NGQWtVVjB3Qkk2QmY1d3ZMTVBlQjY0QXVTdGg0YjBBSUpmaWQ4TUFkZEQ2Yw?oc=5",
+      "pub_ts": 1788393240.0
+    },
+    {
+      "title": "SWAN Corner From Warning To Reality \u2014 Lessons From The Latest OT Attacks On Water Utilities",
+      "source": "Water Online",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGliRDd1UFJjeE9PcVlvS2RBdkF1aGFWellfZExHZjJZVDFVOXVPeWFWVG1pYlc2ZlM1enV1VFU5UzhXaTF6YXB6dXNxN0dBbjAwd0s5cFliVzRicmVtSHc2VVZ5cDJYX0xMbUxVMU41SHRTTVM4dWx3R0VCQUFLQUwtSWlWYnZDV3d2Q19Ba21qWlg1ank5MHN2WFV0MlpNbTFIeWdMVnc0NnBnRlg3UEhKc0VKR29kTGQ5cFJMdEJ6bDJw?oc=5",
+      "pub_ts": 1788378883.0
+    },
+    {
+      "title": "Rand Water hit by cyberattack",
       "source": "MyBroadband",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWW5NLTNxcnhZX0RkYVB0TF9EV192T1NaRGZWTWJMRjRSXzhhb0lQSGhVR0xxWVNMYXd0cGRFUXRxXzR3VXhlUUlYSDZTMEVlQzd2Q2Z1MF9HS2Y1MFNWUHNWWU9vZU9hY21OV2FFUnZ2NDJRdUx5MzVUTXJRTTNIRHVDbnItdUtiamxTM0w4eml3MVAzODZ0ODhjX0dnVldYbWFTdUpwS2wzaHREOFlvUGVOeXAtWGM?oc=5",
       "pub_ts": 1788334745.0
@@ -20,34 +32,22 @@
       "pub_ts": 1788174960.0
     },
     {
-      "title": "Cyberattack Coordination for Water Utilities",
-      "source": "BlackBerry",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3cxSUx1eXNwd0xnQzNlQ3RyeDhydU94OWRQY0RCLWM3cDcyaGNrNUZtdDVERXdaSk9LME9pWEFjNkdlTUUzWEtRbzNxLWY3N28tZzc2c3FXNGpKQ18wR285b1UxZkZrcnFmRmlzU0dHSGd6eVNhdXA4eTZpamlDQjFHVkx0RXFZQm9xM2otWTFpYUpDa3BaaGNVSkRCNXJ5N2hqR2IzUVZ0QQ?oc=5",
-      "pub_ts": 1787755964.0
+      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "source": "KWSN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMi13MzlDbDItcklpeHJhTUZHUHdrOHBjVjhFMjQza1RpdWZmZXFkdmdIS1FVejVySVZxRDVtREQyUkZMM0IwVDQ2SzU1UFFJZlluajF3alcxOGpaZmhOTHlERTVMVW9yU1hZSU1ZNlFHN25xYi1MOGk4eUoxOWktOURVYVBqQlRuX2VNZUNCMThDdnVEdmZ2R0E2RVlNbks0OVA1a0dXaFB2V19ua0JNN0pjdE5XaUhUelJKQ2k2WQ?oc=5",
+      "pub_ts": 1787809114.0
     },
     {
       "title": "Hack of Water Sector Supplier Draws FBI Scrutiny as Iran-Linked Cyber Concerns Grow",
-      "source": "Algemeiner.com",
+      "source": "algemeiner.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXJuVFpYdnZ5YUFFOVlTZ05BYTRuUjFUbGNGelNFTnJKaGw4UkU3WlMyUDF2eVVhbnBlNG4tWW1qYkREZWNsY3pOX2g2OFpvcExOeG5WaWZYUEJGc1V0bTZMRjZVVW1DM0VGTWduQWpEdmZxSnZpMVhuVEFncGlZb2JEUWtoZnhXc2FrWWd6anZIbVV5ejlKZmtzbWpPaWZLaV9pRmwzdmQzMEpXSE83R3AtUEtBcVE?oc=5",
       "pub_ts": 1787753640.0
     },
     {
-      "title": "Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-      "source": "New York Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORGZaWE9EeTNqWXQ4SEFTZk1DNl95eWNtMHRRSHlEUFNYOUtCVVZlREI2TXpDd01uVHlMRjRkNlRhTm5TT0RzMk1Zb1pBWDRUS3dMeHE3THBZY3RVVTkwSUNLOWk4WXMtUmVOQWQ2ZmhLdGZpVGJrVVJuM1BFaGxaV1I4dU5WSkhXVzV1WndJVnVaZE54Ty0wQmNHMmlKQzhId05hbWRfZVd5VUgzbW5zaml6NkUtQTYtaDFCczJ4RQ?oc=5",
-      "pub_ts": 1787751840.0
-    },
-    {
-      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-      "source": "97.9 WEVE",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ09NbXQteEVxc2VVMllwemprQl9hZ1R1ZU5VX05GcXprTUFqUFFKZVV0UmtwenpBQWU0RnllWnNPNjN4Z2NRbkFqVmtxcWg2RHMzcjEzdGNabUdSdzBQc3M5UzFDOWVncGlfVlEweE9jZlg3Zjk2NVR1RE1mUW9ib2hSQkNPakczM3VFNWFVRnFBcElwamdrMzZSREtLQ2dETWd2OUp3QVJuUXpGRU5vVzdWQzR1d3dLNHhiX3JDR1NLLVk?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "So About That Iranian Cyberattack on Our Water Supply",
-      "source": "Slate",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNGdLTk9uYzJqVlZEZlZqSzlBZS1ZS3gxVG1iM29jREJrM1hnLUFDMjVuSFNLTVhlcmdMVHF0bzJLMmc0Z2RjYWZLZ2NLcjhrbGpqQm8ydXhKdnhPYjkybUp0TmNzeHRMMzh2RVFWOUszSXAyVjgwcFpmVHBOYU5KYWhPeHBBN2trTzNkODNVRFZ6cXc?oc=5",
-      "pub_ts": 1787122800.0
+      "title": "Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow By Reuters",
+      "source": "Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUUpuUjNWY0s4eEo4WnVEVWh5czNfWjd3N0lMT2NVc1B0OXNYakYwSlVpbHEySzB3NlY2bGc0ampvRGZWOWZDc3VuRC1iRGoteUx2NTlGc185U0YtcHo4RlA1NzluenRpalByRmhvTkJrNnJ0bFFaWV9pOUlBXzh1WkJIQUt1U1BJeEV2eFFLXzlsVk5tbjg0eUJhY1NDanEycTRub0NNYkNPRGcxSkJYWkVPTFVrY0JnNDZ4dTZoTEktS2hLWkczN3JYdHFqODYzVF9jVWh6ZlJsazg?oc=5",
+      "pub_ts": 1787739626.0
     }
   ]
 }
