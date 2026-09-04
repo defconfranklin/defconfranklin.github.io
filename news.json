@@ -1,6 +1,12 @@
 {
-  "generated_at": 1788525738.9539528,
+  "generated_at": 1788548321.7558537,
   "articles": [
+    {
+      "title": "Lunenburg mayor hopeful water conservation directive will be lifted soon",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0xvdGxkdDVobzU4WEdPS3pGaUQwME1rbFMyaDJ4djJtNEdQRVc5YS1aNVBWTzNXNWlJcV85WGJ3VGcwTHNUWlB3VmJJclh3M1hXNl9HaHRjNkJFalphbGY5dEo1bTlpNkJaRUY0VDZpcVJISHFCbkdfSWJjQjFCQzlxWkF3Z3JaRUo4bjVZUUE1cmxLbDJ5dWpGRmVRZmFJYnRhN21mNTNCeVMyWGZoTVhZLUFOMFk5OC1KNElWQmlyNTA?oc=5",
+      "pub_ts": 1788541236.0
+    },
     {
       "title": "Forget poisoned water, a cyberattack\u2019s real threat to SA is empty reservoirs",
       "source": "The Citizen",
@@ -9,7 +15,7 @@
     },
     {
       "title": "Hackers breach Rand Water\u2019s defences",
-      "source": "ITWeb",
+      "source": "itweb.co.za",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTltVXJIZXVObTVQczRkbldjdHRFaXVHLXpycmdiQ0JDMHJ1YjYzZzA2SWtIR0Y0U3p5SzJodjdFdmVWc3R5WkZlcWgxOHpUNHdWejF5MUhiaEh3TW5HUDBsdU16aUFMWFZ6bEdKNk5iNkRUTUt4WjBTeGlhbjRaYW56UktCamRVSXcwMQ?oc=5",
       "pub_ts": 1788518386.0
     },
@@ -18,12 +24,6 @@
       "source": "2oceansvibe News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2VoVW5FbXlLcF9qWEo5VEtYZ2xSSEowbTdrSGxrTDRhQS1KTnRBeDRTamhJbHZza19OMk1lOEZjUXJucjQxaTVYRk9QZFVzU2R3S01Na25acnRDWXNHX2hIZElYeEgyWGN4N3d0NXN5dWJIeEVGcTJjZjBYRzcwY2NULVJ2S2dWb1BhSFMyYlNLQQ?oc=5",
       "pub_ts": 1788502414.0
-    },
-    {
-      "title": "Cyberattack hits South Africa\u2019s biggest water utility",
-      "source": "TechCentral",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcGNtbHpndW5pWkFucm1QT2RxbGJ0SWNkMmV2eERsdTVIYk1qWlo3bk5fV0VFa3NnVGNPR0VaWFd4azJ5aFY3bmwxaGpON2c3NnF2WVB6RndnV3JETkhFTFhWN0lQa3M?oc=5",
-      "pub_ts": 1788461419.0
     },
     {
       "title": "Lunenburg mayor says crews are working to repair 'significant breach' in dam that supplies town's water",
@@ -38,16 +38,16 @@
       "pub_ts": 1788439306.0
     },
     {
-      "title": "Town of Lunenburg residents asked to conserve water, school closed after dam breach",
-      "source": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ21OdjNyZkdvak9uRmlybHFyRmFZTDNYM1JLRm9zNURoRVNQU1RlVmhLdTdzUUZiaW1zQXdxWHJ2SF9CZXQzbFdMV1NRVEVyTnVGU0JTYUtaZ0hPN01VczIyRmgzYTMzZFo3eXctX0tzRFdST24tZzVfQ212NTIwWm1JeEU0X0U?oc=5",
-      "pub_ts": 1788382809.0
-    },
-    {
       "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
       "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
       "pub_ts": 1788382800.0
+    },
+    {
+      "title": "SWAN Corner From Warning To Reality \u2014 Lessons From The Latest OT Attacks On Water Utilities",
+      "source": "Water Online",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGliRDd1UFJjeE9PcVlvS2RBdkF1aGFWellfZExHZjJZVDFVOXVPeWFWVG1pYlc2ZlM1enV1VFU5UzhXaTF6YXB6dXNxN0dBbjAwd0s5cFliVzRicmVtSHc2VVZ5cDJYX0xMbUxVMU41SHRTTVM4dWx3R0VCQUFLQUwtSWlWYnZDV3d2Q19Ba21qWlg1ank5MHN2WFV0MlpNbTFIeWdMVnc0NnBnRlg3UEhKc0VKR29kTGQ5cFJMdEJ6bDJw?oc=5",
+      "pub_ts": 1788378883.0
     }
   ]
 }
