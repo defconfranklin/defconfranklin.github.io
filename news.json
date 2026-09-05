@@ -1,23 +1,11 @@
 {
-  "generated_at": 1788582163.5139446,
+  "generated_at": 1788608951.1974952,
   "articles": [
     {
       "title": "Lunenburg easing water restrictions after Dares Lake dam breach secured",
       "source": "Your South Shore",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeUpMb1lIT3ZqcmNkSERZMVkwZ2t2UmxDWmVxTERxaDVDQ2lPNWhfNTZwREtvcXcyWm1vQW9vZVJLTS1LdzZXTEgwVUxXSkwxa0VYSlkwYVpka08zV05pNE5MRGV4b0RUeTNiWmpPRG5hUHhoNThoRU4yRWRZbGJfRFR3OVNPdHNLem16TGFuNFItazY5ZGpjWFJlME5SeVU?oc=5",
       "pub_ts": 1788548513.0
-    },
-    {
-      "title": "Forget poisoned water, a cyberattack\u2019s real threat to SA is empty reservoirs",
-      "source": "The Citizen",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzUxOEJoWFd0X2JacjlmMjI2azhRekJ2OVE4ZzRRVkVKNjVwRDdSMXJZeDBTY00yMV9lUWZSb3Z3Q29PRTU5VXMtaWhtcmNXNGpaN1lLcjVkOTllSmg3TDd4QmFRaE5FeWRCVWd4aWlSRXVIbVVZUmRUbWhZUzRHTXpsOERfU2RCN28xc3c0cEI0ZldXNTNQZWpFS2NXY0ozMXRoSVM3Y1VMcEJ0RjltXw?oc=5",
-      "pub_ts": 1788521619.0
-    },
-    {
-      "title": "Hackers breach Rand Water\u2019s defences",
-      "source": "ITWeb",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTltVXJIZXVObTVQczRkbldjdHRFaXVHLXpycmdiQ0JDMHJ1YjYzZzA2SWtIR0Y0U3p5SzJodjdFdmVWc3R5WkZlcWgxOHpUNHdWejF5MUhiaEh3TW5HUDBsdU16aUFMWFZ6bEdKNk5iNkRUTUt4WjBTeGlhbjRaYW56UktCamRVSXcwMQ?oc=5",
-      "pub_ts": 1788518386.0
     },
     {
       "title": "Rand Water Hit By Cyber Attack",
@@ -38,6 +26,12 @@
       "pub_ts": 1788439306.0
     },
     {
+      "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdMZldscXowbHVadzFLRS0xajFnSHZ4M0hjVXNiMVRLVTlXZElQWDEyMm5zcV80ZkFuTm54Y2JySUJ0bV9rNDVWSXhHTlgtcFlvWm9JNDZnMnNoZTUyMV9xTGM5TXg3Q1Jwc1hCclhjSTRCNDJaSXVtRzVwTnRKc1hPMHpDMi1jcjNSR1dzOUpHMDh6UEpxR19ZbHY0X3ktbGFQcUs3U09YVGlrWjFJ?oc=5",
+      "pub_ts": 1788423399.0
+    },
+    {
       "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
       "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
@@ -48,6 +42,12 @@
       "source": "Water Online",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGliRDd1UFJjeE9PcVlvS2RBdkF1aGFWellfZExHZjJZVDFVOXVPeWFWVG1pYlc2ZlM1enV1VFU5UzhXaTF6YXB6dXNxN0dBbjAwd0s5cFliVzRicmVtSHc2VVZ5cDJYX0xMbUxVMU41SHRTTVM4dWx3R0VCQUFLQUwtSWlWYnZDV3d2Q19Ba21qWlg1ank5MHN2WFV0MlpNbTFIeWdMVnc0NnBnRlg3UEhKc0VKR29kTGQ5cFJMdEJ6bDJw?oc=5",
       "pub_ts": 1788378883.0
+    },
+    {
+      "title": "CISA: A Coordinated Cyber Attack by Suspected Iranian Hackers Affected Over 100 Water Systems",
+      "source": "cpomagazine.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
+      "pub_ts": 1788260400.0
     }
   ]
 }
