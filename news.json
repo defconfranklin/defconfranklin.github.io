@@ -1,12 +1,6 @@
 {
-  "generated_at": 1788755744.5592477,
+  "generated_at": 1788790435.3428879,
   "articles": [
-    {
-      "title": "At least 12 states face cyberattacks on their water systems, sources say",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
-      "pub_ts": 1788691983.0
-    },
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
       "source": "ABC News",
@@ -15,15 +9,15 @@
     },
     {
       "title": "Water conservation restrictions over in Lunenburg, N.S., following dam breach",
-      "source": "cp24.com",
+      "source": "CP24",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkNIZkdsbElXRnVYRk9mSWFUei1CcE52SHBoYzlEQUphWFg0cUFaamkyWUJGU1hiTXZ6LWJKS0VKMW9LVHdlSWxZeE5ubWNSYktOaFBvUzlST2VPQmNqUld1a3pSNThjRkJvcTFpeC1ZRkpfQ2xMaF9JSFNfdXFpSklwZWc1QzNVS2pNV1hvOUhSdjJkbFY2WDBFWER3ZUZLOGduWEdVTXNPQWw3cGtCX2dFNWh1dmJDOEE?oc=5",
       "pub_ts": 1788629552.0
     },
     {
-      "title": "Hackers breach Rand Water\u2019s defences",
-      "source": "ITWeb",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTltVXJIZXVObTVQczRkbldjdHRFaXVHLXpycmdiQ0JDMHJ1YjYzZzA2SWtIR0Y0U3p5SzJodjdFdmVWc3R5WkZlcWgxOHpUNHdWejF5MUhiaEh3TW5HUDBsdU16aUFMWFZ6bEdKNk5iNkRUTUt4WjBTeGlhbjRaYW56UktCamRVSXcwMQ?oc=5",
-      "pub_ts": 1788518386.0
+      "title": "Cyberattack hits South Africa\u2019s biggest water utility",
+      "source": "TechCentral",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KcGNtbHpndW5pWkFucm1QT2RxbGJ0SWNkMmV2eERsdTVIYk1qWlo3bk5fV0VFa3NnVGNPR0VaWFd4azJ5aFY3bmwxaGpON2c3NnF2WVB6RndnV3JETkhFTFhWN0lQa3M?oc=5",
+      "pub_ts": 1788461419.0
     },
     {
       "title": "Lunenburg mayor says crews are working to repair 'significant breach' in dam that supplies town's water",
@@ -48,6 +42,12 @@
       "source": "CPO Magazine",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
       "pub_ts": 1788260400.0
+    },
+    {
+      "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
+      "source": "NBC 5 Chicago",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFZ0UDdiV0VYQnk0aU1peTdMS2JJb1lfTTAyUjBjV3BnVV9Zd01waVNJZlJ3VHRXMmJ2OXRVMjdmbTFFMzQ0NGNYUmNqNVV0NE50NmdlTUYtc0lteHJOaWltTHRVOFY4OEZFMTc4WUwwMEhVRlhJSGtObGt2VnlZWnNzTmN3NG1PYWxxTWFPT0hCQkhaVDM3Tk5falBxQ0llUjdmZzNlRlR5NldCdVBRT3hzNHF4M3lJTzNCTEF1R1h5MzJjd1l4am5EMlF3Wk1scXfSAdoBQVVfeXFMTWowQThfZ3JHWUs3dFhqUEJ2SjZiNkR4WVY4UjlOcHRnM1JuT0d3eUtCOE5Vd29lOEJmUjYtX1lYUU1xZWZtbVpZVi1OVldZQXliOGdlUFVrVGg4TXdpXzIyTWYtQUlBbVN3QVp2UjAxNWN4cWRzM2RjM01SRDk5cXIyeV93bEs3X3FJbzNKQUVscmRVWjFDSGh1cVdBMlZVNkphYWkycHBZSWdlazBqeHVBcW9vMXQ0aW9saEtCcnFGZ2Z2S1U1cllCb1hkTFpuRW02eEg1d013YXc?oc=5",
+      "pub_ts": 1787814000.0
     }
   ]
 }
