@@ -1,53 +1,53 @@
 {
-  "generated_at": 1788732397.5542903,
+  "generated_at": 1788755744.5592477,
   "articles": [
     {
-      "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
+      "title": "At least 12 states face cyberattacks on their water systems, sources say",
       "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdMZldscXowbHVadzFLRS0xajFnSHZ4M0hjVXNiMVRLVTlXZElQWDEyMm5zcV80ZkFuTm54Y2JySUJ0bV9rNDVWSXhHTlgtcFlvWm9JNDZnMnNoZTUyMV9xTGM5TXg3Q1Jwc1hCclhjSTRCNDJaSXVtRzVwTnRKc1hPMHpDMi1jcjNSR1dzOUpHMDh6UEpxR19ZbHY0X3ktbGFQcUs3U09YVGlrWjFJ0gG0AUFVX3lxTE9nN2pBOWdLMkJwMVdqZVlBM29rTUR5YkFlSFRVRm5vd0piMHp5dXRyTWRacDRiU1JyS2pGWnktdmpYdWhuZXoxSGVPa003eDNscVoxSTZGbWNGaHVOWXR4WGdNQVBtN2UxTmNCMUlwSlNLVHlublFaWHdZRndkZDI4RElmMGdtSy1VMlJVemNfVUNiX1BFbXdYQUs0QXZLYUpENnNuY3ZMNGNPLVNTVFFvX2J3ZA?oc=5",
-      "pub_ts": 1788623830.0
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
+      "pub_ts": 1788691983.0
+    },
+    {
+      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
+      "pub_ts": 1788640109.0
+    },
+    {
+      "title": "Water conservation restrictions over in Lunenburg, N.S., following dam breach",
+      "source": "cp24.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkNIZkdsbElXRnVYRk9mSWFUei1CcE52SHBoYzlEQUphWFg0cUFaamkyWUJGU1hiTXZ6LWJKS0VKMW9LVHdlSWxZeE5ubWNSYktOaFBvUzlST2VPQmNqUld1a3pSNThjRkJvcTFpeC1ZRkpfQ2xMaF9JSFNfdXFpSklwZWc1QzNVS2pNV1hvOUhSdjJkbFY2WDBFWER3ZUZLOGduWEdVTXNPQWw3cGtCX2dFNWh1dmJDOEE?oc=5",
+      "pub_ts": 1788629552.0
+    },
+    {
+      "title": "Hackers breach Rand Water\u2019s defences",
+      "source": "ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTltVXJIZXVObTVQczRkbldjdHRFaXVHLXpycmdiQ0JDMHJ1YjYzZzA2SWtIR0Y0U3p5SzJodjdFdmVWc3R5WkZlcWgxOHpUNHdWejF5MUhiaEh3TW5HUDBsdU16aUFMWFZ6bEdKNk5iNkRUTUt4WjBTeGlhbjRaYW56UktCamRVSXcwMQ?oc=5",
+      "pub_ts": 1788518386.0
+    },
+    {
+      "title": "Lunenburg mayor says crews are working to repair 'significant breach' in dam that supplies town's water",
+      "source": "PNI Atlantic News",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZzVFeVZWOFVrc1lob085anFyd0pGckF3cno5N0VzNUVMUy1fS2Y3UVZCYWVLM0dRLXRaaDIyNzY5VDdnVWQ5ME9xMklsSGItcW80bVd5NmF2UmFGX090bWJwMndKNXBQM0pkeXhPWXVoemc1VXhCQ0dzSmx6UzhMaEE1Y18zUnFyUGJQZjFTZ3RmUnhhSFlZZ0FOeGFtcTliSk5mSlA1c1ZqeXBqZjVMdjctUjRDUTZ2eWdmMTllRk9JNTk3ZFNjNzhBYmo3TUxRXzVZ?oc=5",
+      "pub_ts": 1788458584.0
+    },
+    {
+      "title": "Update: Lunenburg issues mandatory water conservation measures after dam breach",
+      "source": "Your South Shore",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHdKMlY4ejYwNFZsTVJDT0RfcXJVcG9JQUZBd01LTnlKTjNXamJPbDAxYXlYVUVIcEZYclpMOEoyM0hxY2FFX2VDYjB3ajl0bkxvdHJ4cVo5cWlQUkZMZktXbmlhTy10VEctTFBRU052cEtNclo4bjloSVk0bV85ZWZwd0FFNDZ5Zmc?oc=5",
+      "pub_ts": 1788439306.0
     },
     {
       "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
-      "source": "Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ21OdjNyZkdvak9uRmlybHFyRmFZTDNYM1JLRm9zNURoRVNQU1RlVmhLdTdzUUZiaW1zQXdxWHJ2SF9CZXQzbFdMV1NRVEVyTnVGU0JTYUtaZ0hPN01VczIyRmgzYTMzZFo3eXctX0tzRFdST24tZzVfQ212NTIwWm1JeEU0X0U?oc=5",
-      "pub_ts": 1788382809.0
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
+      "pub_ts": 1788382800.0
     },
     {
       "title": "CISA: A Coordinated Cyber Attack by Suspected Iranian Hackers Affected Over 100 Water Systems",
       "source": "CPO Magazine",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
       "pub_ts": 1788260400.0
-    },
-    {
-      "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "Government admits water system cyberattacks were worse than first reported",
-      "source": "nbcchicago.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "Hack of Water Sector Supplier Draws FBI Scrutiny as Iran-Linked Cyber Concerns Grow",
-      "source": "algemeiner.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXJuVFpYdnZ5YUFFOVlTZ05BYTRuUjFUbGNGelNFTnJKaGw4UkU3WlMyUDF2eVVhbnBlNG4tWW1qYkREZWNsY3pOX2g2OFpvcExOeG5WaWZYUEJGc1V0bTZMRjZVVW1DM0VGTWduQWpEdmZxSnZpMVhuVEFncGlZb2JEUWtoZnhXc2FrWWd6anZIbVV5ejlKZmtzbWpPaWZLaV9pRmwzdmQzMEpXSE83R3AtUEtBcVE?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "Water Supply Poisoning Risk Via AI Cyberattack Is Real, Expert Warns",
-      "source": "Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pPUHV1eGdjWkxVazNvVFZVN0NnOXN6TzVQMjFQQUFnU3BQRzAzZmNoeUtqNGYxUFg3REFheVNxVzdfbVVNRjgtSXZkMlUxRVFOX2FhSFY4NHR3SEF4bFd1RE1YelBxX19CY2h4YWZobU4wTk9IUUhwMWdiMWlxTWE5Y0FNQU5OMlJjbmhwVjU3UQ?oc=5",
-      "pub_ts": 1787554800.0
-    },
-    {
-      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVQ4b3FTSUpDd1Y2RUxNRkxKN0hMcEt5cFljeVBXQ1MxckRSU1FQa0NfMkQ5NFM3MHc0bExIVFVyaHZ5b0lNRjJXUnNUUXZHNTRfVWdNTG1KdmR0RnVmbUFCUW14emxUSV9SR29pbk5NY1pGei1kZGtRS0RHNWxQMl95aDRYUlZaeXhSQ090SDFadFMxYUJMNENpQ21HbWdweXJITXhXMDVhcWVZOXc?oc=5",
-      "pub_ts": 1787209200.0
     }
   ]
 }
