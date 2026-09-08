@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788821325.9494336,
+  "generated_at": 1788841867.7874067,
   "articles": [
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
@@ -8,14 +8,8 @@
       "pub_ts": 1788751255.0
     },
     {
-      "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdMZldscXowbHVadzFLRS0xajFnSHZ4M0hjVXNiMVRLVTlXZElQWDEyMm5zcV80ZkFuTm54Y2JySUJ0bV9rNDVWSXhHTlgtcFlvWm9JNDZnMnNoZTUyMV9xTGM5TXg3Q1Jwc1hCclhjSTRCNDJaSXVtRzVwTnRKc1hPMHpDMi1jcjNSR1dzOUpHMDh6UEpxR19ZbHY0X3ktbGFQcUs3U09YVGlrWjFJ0gG0AUFVX3lxTE9nN2pBOWdLMkJwMVdqZVlBM29rTUR5YkFlSFRVRm5vd0piMHp5dXRyTWRacDRiU1JyS2pGWnktdmpYdWhuZXoxSGVPa003eDNscVoxSTZGbWNGaHVOWXR4WGdNQVBtN2UxTmNCMUlwSlNLVHlublFaWHdZRndkZDI4RElmMGdtSy1VMlJVemNfVUNiX1BFbXdYQUs0QXZLYUpENnNuY3ZMNGNPLVNTVFFvX2J3ZA?oc=5",
-      "pub_ts": 1788705871.0
-    },
-    {
       "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
-      "source": "CBC",
+      "source": "cbc.ca",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
       "pub_ts": 1788382800.0
     },
@@ -39,7 +33,7 @@
     },
     {
       "title": "Hack of Water Sector Supplier Draws FBI Scrutiny as Iran-Linked Cyber Concerns Grow",
-      "source": "algemeiner.com",
+      "source": "Algemeiner.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXJuVFpYdnZ5YUFFOVlTZ05BYTRuUjFUbGNGelNFTnJKaGw4UkU3WlMyUDF2eVVhbnBlNG4tWW1qYkREZWNsY3pOX2g2OFpvcExOeG5WaWZYUEJGc1V0bTZMRjZVVW1DM0VGTWduQWpEdmZxSnZpMVhuVEFncGlZb2JEUWtoZnhXc2FrWWd6anZIbVV5ejlKZmtzbWpPaWZLaV9pRmwzdmQzMEpXSE83R3AtUEtBcVE?oc=5",
       "pub_ts": 1787727600.0
     },
@@ -48,6 +42,12 @@
       "source": "Newsweek",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pPUHV1eGdjWkxVazNvVFZVN0NnOXN6TzVQMjFQQUFnU3BQRzAzZmNoeUtqNGYxUFg3REFheVNxVzdfbVVNRjgtSXZkMlUxRVFOX2FhSFY4NHR3SEF4bFd1RE1YelBxX19CY2h4YWZobU4wTk9IUUhwMWdiMWlxTWE5Y0FNQU5OMlJjbmhwVjU3UQ?oc=5",
       "pub_ts": 1787554800.0
+    },
+    {
+      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVQ4b3FTSUpDd1Y2RUxNRkxKN0hMcEt5cFljeVBXQ1MxckRSU1FQa0NfMkQ5NFM3MHc0bExIVFVyaHZ5b0lNRjJXUnNUUXZHNTRfVWdNTG1KdmR0RnVmbUFCUW14emxUSV9SR29pbk5NY1pGei1kZGtRS0RHNWxQMl95aDRYUlZaeXhSQ090SDFadFMxYUJMNENpQ21HbWdweXJITXhXMDVhcWVZOXc?oc=5",
+      "pub_ts": 1787209200.0
     }
   ]
 }
