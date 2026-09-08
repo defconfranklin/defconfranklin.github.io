@@ -1,6 +1,12 @@
 {
-  "generated_at": 1788841867.7874067,
+  "generated_at": 1788871868.7609363,
   "articles": [
+    {
+      "title": "Cyberattacks struck U.S. water systems this summer. Could Idaho be targeted?",
+      "source": "idahostatesman.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
+      "pub_ts": 1788861600.0
+    },
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
       "source": "ABC News",
@@ -9,19 +15,13 @@
     },
     {
       "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
-      "source": "cbc.ca",
+      "source": "CBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
       "pub_ts": 1788382800.0
     },
     {
-      "title": "CISA: A Coordinated Cyber Attack by Suspected Iranian Hackers Affected Over 100 Water Systems",
-      "source": "CPO Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
-      "pub_ts": 1788260400.0
-    },
-    {
       "title": "Government admits water system cyberattacks were worse than first reported",
-      "source": "NBC 5 Chicago",
+      "source": "nbcchicago.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
       "pub_ts": 1787727600.0
     },
@@ -44,10 +44,10 @@
       "pub_ts": 1787554800.0
     },
     {
-      "title": "US says hackers are targeting vulnerable water systems with the help of AI",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOVQ4b3FTSUpDd1Y2RUxNRkxKN0hMcEt5cFljeVBXQ1MxckRSU1FQa0NfMkQ5NFM3MHc0bExIVFVyaHZ5b0lNRjJXUnNUUXZHNTRfVWdNTG1KdmR0RnVmbUFCUW14emxUSV9SR29pbk5NY1pGei1kZGtRS0RHNWxQMl95aDRYUlZaeXhSQ090SDFadFMxYUJMNENpQ21HbWdweXJITXhXMDVhcWVZOXc?oc=5",
-      "pub_ts": 1787209200.0
+      "title": "America\u2019s Water Systems Are Under Attack. We Are Not Ready.",
+      "source": "Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmlPV1QxREdrdXRDdGF0azRDb1BVYk5pb09TakxJV01GODVzWDk3ZUhJamNrNTZJdVNkRXQyN2FLVXNuZTR3LUZ3YlpRWWJwODdmVTdzY1lLdXE3eFFEbHQ1Smpzbm54bmtWXzVxcEphUmlLUF9WSkUtcUd2T3p6b3RfUXc?oc=5",
+      "pub_ts": 1787122800.0
     }
   ]
 }
