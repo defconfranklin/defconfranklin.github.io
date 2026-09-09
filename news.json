@@ -1,5 +1,5 @@
 {
-  "generated_at": 1788958626.5054698,
+  "generated_at": 1788981342.9709334,
   "articles": [
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
@@ -33,8 +33,14 @@
     },
     {
       "title": "CISA confirms hackers targeted over 100 US water systems during July",
-      "source": "techcrunch.com",
+      "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzFXMnJnV2lpeHJsWmU0MThQOGNTNERScy13LTE4NjI5eVpCUElWN2ZfUHJVUm8wSzJPLXA4eFJtSnFMY0NsVENLWDhQTXNyNHNpanBvcDRNYVF1N1dCdzV5RTBjZ3pxWTI1aV92T1B0MjloeXlCeXduR1lZRVlMMEhSYzZFcncwOTlCU0lyNTJDOFVOWV83TGNXLVU2NjhhYVNoZWhB?oc=5",
+      "pub_ts": 1787727600.0
+    },
+    {
+      "title": "Hack of Water Sector Supplier Draws FBI Scrutiny as Iran-Linked Cyber Concerns Grow",
+      "source": "Algemeiner.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdXJuVFpYdnZ5YUFFOVlTZ05BYTRuUjFUbGNGelNFTnJKaGw4UkU3WlMyUDF2eVVhbnBlNG4tWW1qYkREZWNsY3pOX2g2OFpvcExOeG5WaWZYUEJGc1V0bTZMRjZVVW1DM0VGTWduQWpEdmZxSnZpMVhuVEFncGlZb2JEUWtoZnhXc2FrWWd6anZIbVV5ejlKZmtzbWpPaWZLaV9pRmwzdmQzMEpXSE83R3AtUEtBcVE?oc=5",
       "pub_ts": 1787727600.0
     },
     {
@@ -42,12 +48,6 @@
       "source": "Newsweek",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pPUHV1eGdjWkxVazNvVFZVN0NnOXN6TzVQMjFQQUFnU3BQRzAzZmNoeUtqNGYxUFg3REFheVNxVzdfbVVNRjgtSXZkMlUxRVFOX2FhSFY4NHR3SEF4bFd1RE1YelBxX19CY2h4YWZobU4wTk9IUUhwMWdiMWlxTWE5Y0FNQU5OMlJjbmhwVjU3UQ?oc=5",
       "pub_ts": 1787554800.0
-    },
-    {
-      "title": "America\u2019s Water Systems Are Under Attack. We Are Not Ready.",
-      "source": "Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmlPV1QxREdrdXRDdGF0azRDb1BVYk5pb09TakxJV01GODVzWDk3ZUhJamNrNTZJdVNkRXQyN2FLVXNuZTR3LUZ3YlpRWWJwODdmVTdzY1lLdXE3eFFEbHQ1Smpzbm54bmtWXzVxcEphUmlLUF9WSkUtcUd2T3p6b3RfUXc?oc=5",
-      "pub_ts": 1787122800.0
     }
   ]
 }
