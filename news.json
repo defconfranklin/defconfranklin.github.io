@@ -1,9 +1,9 @@
 {
-  "generated_at": 1788993123.1251354,
+  "generated_at": 1789015056.8582237,
   "articles": [
     {
       "title": "Cyberattacks struck U.S. water systems this summer. Could Idaho be targeted?",
-      "source": "idahostatesman.com",
+      "source": "Idaho Statesman",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
       "pub_ts": 1788861600.0
     },
@@ -26,6 +26,12 @@
       "pub_ts": 1787727600.0
     },
     {
+      "title": "FBI probe into cyberattacks on US water systems expands after tech supplier is targeted",
+      "source": "independent.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckdObW1LTWttd0V3WWlfbjRBLXNRa0syWjJOU2VJRUpzMHlSOVRJc2VjRS1rZHF6UEdYbTBaWWozSmV2UnFFUUhoV3E4VVZxS2w1R0FIa1IwQzFJMFZEZWZuLXBkdUNTVG5Fc1R4a2pDekJRMGZsdjgzZ0RDYlJuaC14LWhEQ1dzNmxjUjdPUVRtQ0d1S2c?oc=5",
+      "pub_ts": 1787727600.0
+    },
+    {
       "title": "CISA confirms hackers targeted over 100 US water systems during July",
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzFXMnJnV2lpeHJsWmU0MThQOGNTNERScy13LTE4NjI5eVpCUElWN2ZfUHJVUm8wSzJPLXA4eFJtSnFMY0NsVENLWDhQTXNyNHNpanBvcDRNYVF1N1dCdzV5RTBjZ3pxWTI1aV92T1B0MjloeXlCeXduR1lZRVlMMEhSYzZFcncwOTlCU0lyNTJDOFVOWV83TGNXLVU2NjhhYVNoZWhB?oc=5",
@@ -42,12 +48,6 @@
       "source": "Newsweek",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pPUHV1eGdjWkxVazNvVFZVN0NnOXN6TzVQMjFQQUFnU3BQRzAzZmNoeUtqNGYxUFg3REFheVNxVzdfbVVNRjgtSXZkMlUxRVFOX2FhSFY4NHR3SEF4bFd1RE1YelBxX19CY2h4YWZobU4wTk9IUUhwMWdiMWlxTWE5Y0FNQU5OMlJjbmhwVjU3UQ?oc=5",
       "pub_ts": 1787554800.0
-    },
-    {
-      "title": "America\u2019s Water Systems Are Under Attack. We Are Not Ready.",
-      "source": "Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcmlPV1QxREdrdXRDdGF0azRDb1BVYk5pb09TakxJV01GODVzWDk3ZUhJamNrNTZJdVNkRXQyN2FLVXNuZTR3LUZ3YlpRWWJwODdmVTdzY1lLdXE3eFFEbHQ1Smpzbm54bmtWXzVxcEphUmlLUF9WSkUtcUd2T3p6b3RfUXc?oc=5",
-      "pub_ts": 1787122800.0
     }
   ]
 }
