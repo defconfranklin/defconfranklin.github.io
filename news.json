@@ -1,23 +1,17 @@
 {
-  "generated_at": 1789044848.9038665,
+  "generated_at": 1789067202.7042582,
   "articles": [
+    {
+      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
+      "pub_ts": 1788957922.0
+    },
     {
       "title": "Cyberattacks struck U.S. water systems this summer. Could Idaho be targeted?",
       "source": "Idaho Statesman",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
       "pub_ts": 1788861600.0
-    },
-    {
-      "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
-      "pub_ts": 1788332400.0
-    },
-    {
-      "title": "CISA: A Coordinated Cyber Attack by Suspected Iranian Hackers Affected Over 100 Water Systems",
-      "source": "CPO Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
-      "pub_ts": 1788260400.0
     },
     {
       "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
@@ -48,6 +42,12 @@
       "source": "TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzFXMnJnV2lpeHJsWmU0MThQOGNTNERScy13LTE4NjI5eVpCUElWN2ZfUHJVUm8wSzJPLXA4eFJtSnFMY0NsVENLWDhQTXNyNHNpanBvcDRNYVF1N1dCdzV5RTBjZ3pxWTI1aV92T1B0MjloeXlCeXduR1lZRVlMMEhSYzZFcncwOTlCU0lyNTJDOFVOWV83TGNXLVU2NjhhYVNoZWhB?oc=5",
       "pub_ts": 1787727600.0
+    },
+    {
+      "title": "Water Supply Poisoning Risk Via AI Cyberattack Is Real, Expert Warns",
+      "source": "Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ3pPUHV1eGdjWkxVazNvVFZVN0NnOXN6TzVQMjFQQUFnU3BQRzAzZmNoeUtqNGYxUFg3REFheVNxVzdfbVVNRjgtSXZkMlUxRVFOX2FhSFY4NHR3SEF4bFd1RE1YelBxX19CY2h4YWZobU4wTk9IUUhwMWdiMWlxTWE5Y0FNQU5OMlJjbmhwVjU3UQ?oc=5",
+      "pub_ts": 1787554800.0
     }
   ]
 }
