@@ -1,11 +1,11 @@
 {
-  "generated_at": 1789101324.4637501,
+  "generated_at": 1789130911.4239163,
   "articles": [
     {
       "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
       "source": "ABC News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdMZldscXowbHVadzFLRS0xajFnSHZ4M0hjVXNiMVRLVTlXZElQWDEyMm5zcV80ZkFuTm54Y2JySUJ0bV9rNDVWSXhHTlgtcFlvWm9JNDZnMnNoZTUyMV9xTGM5TXg3Q1Jwc1hCclhjSTRCNDJaSXVtRzVwTnRKc1hPMHpDMi1jcjNSR1dzOUpHMDh6UEpxR19ZbHY0X3ktbGFQcUs3U09YVGlrWjFJ?oc=5",
-      "pub_ts": 1788965390.0
+      "pub_ts": 1789084723.0
     },
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
@@ -14,10 +14,22 @@
       "pub_ts": 1788957922.0
     },
     {
-      "title": "Cyberattacks struck U.S. water systems this summer. Could Idaho be targeted?",
+      "title": "Cyberattacks struck the U.S. this summer. Could Idaho be targeted?",
       "source": "Idaho Statesman",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
       "pub_ts": 1788861600.0
+    },
+    {
+      "title": "Mandatory water conservation measures in place for Town of Lunenburg after dam breach",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSHZGbmVRVnZPdHlrTmx6SGNqaUVmQXhYdkpLWXkyWEYxRnh2c0RELWZ3aDBfWlhJbWdJSmpzQ1VHU0tXUDV1bDZGaFgzcTNZVFVMb1dKTWhxNkdqWi1sdmJpU0IxT0VORlhGWGlybWpzQlZsQVM3cXhsXzdORE00M29xT1RadzVaVW5uZzBWUVRKZnpiSGE1TUNQc1V3VllERmJNTDF0SDZXNXc?oc=5",
+      "pub_ts": 1788332400.0
+    },
+    {
+      "title": "CISA: A Coordinated Cyber Attack by Suspected Iranian Hackers Affected Over 100 Water Systems",
+      "source": "CPO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDlZbUROVGNTTnJEUkg5Z0hmSHlXZHNkWnpSVWw1dG4zeHpVLTVrd3RoVndEMnZVNmRXRVQ5THZYbi1MT21FRVlvMUF1YTFNdUJUWFE2eEtaQ3R5Y29Pam45NkZkSXhQZ3hfY0RPYzV0dXRIVnRTYUYyZzRScGJHZzAwcTJ6cllpd0hZcmozaEhYQ3NzZFV2N1ctUEJBQjlDOWdBcEhMTTJLXzBZckRuT0hFZEtlY2x3MkV4SURxM2Yxb3NVQ2QzRld5dndTVlF2Rmc?oc=5",
+      "pub_ts": 1788260400.0
     },
     {
       "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
@@ -35,18 +47,6 @@
       "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "CISA confirms hackers targeted over 100 US water systems during July",
-      "source": "TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzFXMnJnV2lpeHJsWmU0MThQOGNTNERScy13LTE4NjI5eVpCUElWN2ZfUHJVUm8wSzJPLXA4eFJtSnFMY0NsVENLWDhQTXNyNHNpanBvcDRNYVF1N1dCdzV5RTBjZ3pxWTI1aV92T1B0MjloeXlCeXduR1lZRVlMMEhSYzZFcncwOTlCU0lyNTJDOFVOWV83TGNXLVU2NjhhYVNoZWhB?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "FBI probe into cyberattacks on US water systems expands after tech supplier is targeted",
-      "source": "The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckdObW1LTWttd0V3WWlfbjRBLXNRa0syWjJOU2VJRUpzMHlSOVRJc2VjRS1rZHF6UEdYbTBaWWozSmV2UnFFUUhoV3E4VVZxS2w1R0FIa1IwQzFJMFZEZWZuLXBkdUNTVG5Fc1R4a2pDekJRMGZsdjgzZ0RDYlJuaC14LWhEQ1dzNmxjUjdPUVRtQ0d1S2c?oc=5",
       "pub_ts": 1787727600.0
     }
   ]
