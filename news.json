@@ -1,12 +1,6 @@
 {
-  "generated_at": 1789153733.694565,
+  "generated_at": 1789165978.3569841,
   "articles": [
-    {
-      "title": "Trump blames Minnesota governor, not Iran, for cyberattacks on the state's water systems",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZEdMZldscXowbHVadzFLRS0xajFnSHZ4M0hjVXNiMVRLVTlXZElQWDEyMm5zcV80ZkFuTm54Y2JySUJ0bV9rNDVWSXhHTlgtcFlvWm9JNDZnMnNoZTUyMV9xTGM5TXg3Q1Jwc1hCclhjSTRCNDJaSXVtRzVwTnRKc1hPMHpDMi1jcjNSR1dzOUpHMDh6UEpxR19ZbHY0X3ktbGFQcUs3U09YVGlrWjFJ?oc=5",
-      "pub_ts": 1789084723.0
-    },
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
       "source": "ABC News",
@@ -33,7 +27,7 @@
     },
     {
       "title": "How the world's biggest water plant in Chicago fortifies itself as cyber target",
-      "source": "nbcchicago.com",
+      "source": "NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFZ0UDdiV0VYQnk0aU1peTdMS2JJb1lfTTAyUjBjV3BnVV9Zd01waVNJZlJ3VHRXMmJ2OXRVMjdmbTFFMzQ0NGNYUmNqNVV0NE50NmdlTUYtc0lteHJOaWltTHRVOFY4OEZFMTc4WUwwMEhVRlhJSGtObGt2VnlZWnNzTmN3NG1PYWxxTWFPT0hCQkhaVDM3Tk5falBxQ0llUjdmZzNlRlR5NldCdVBRT3hzNHF4M3lJTzNCTEF1R1h5MzJjd1l4am5EMlF3Wk1scXfSAdoBQVVfeXFMTWowQThfZ3JHWUs3dFhqUEJ2SjZiNkR4WVY4UjlOcHRnM1JuT0d3eUtCOE5Vd29lOEJmUjYtX1lYUU1xZWZtbVpZVi1OVldZQXliOGdlUFVrVGg4TXdpXzIyTWYtQUlBbVN3QVp2UjAxNWN4cWRzM2RjM01SRDk5cXIyeV93bEs3X3FJbzNKQUVscmRVWjFDSGh1cVdBMlZVNkphYWkycHBZSWdlazBqeHVBcW9vMXQ0aW9saEtCcnFGZ2Z2S1U1cllCb1hkTFpuRW02eEg1d013YXc?oc=5",
       "pub_ts": 1787814000.0
     },
@@ -45,8 +39,14 @@
     },
     {
       "title": "Government admits water system cyberattacks were worse than first reported",
-      "source": "nbcchicago.com",
+      "source": "NBC 5 Chicago",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
+      "pub_ts": 1787727600.0
+    },
+    {
+      "title": "CISA confirms hackers targeted over 100 US water systems during July",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzFXMnJnV2lpeHJsWmU0MThQOGNTNERScy13LTE4NjI5eVpCUElWN2ZfUHJVUm8wSzJPLXA4eFJtSnFMY0NsVENLWDhQTXNyNHNpanBvcDRNYVF1N1dCdzV5RTBjZ3pxWTI1aV92T1B0MjloeXlCeXduR1lZRVlMMEhSYzZFcncwOTlCU0lyNTJDOFVOWV83TGNXLVU2NjhhYVNoZWhB?oc=5",
       "pub_ts": 1787727600.0
     }
   ]
