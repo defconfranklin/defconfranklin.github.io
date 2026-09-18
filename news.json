@@ -1,6 +1,12 @@
 {
-  "generated_at": 1789736212.597093,
+  "generated_at": 1789758080.13283,
   "articles": [
+    {
+      "title": "Foreign hackers target Colorado water systems",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
+      "pub_ts": 1789754533.0
+    },
     {
       "title": "Iranian Terrorists Hack US Drinking Water",
       "source": "Yahoo",
@@ -15,7 +21,7 @@
     },
     {
       "title": "Cyberattacks struck the U.S. this summer. Could Idaho be targeted?",
-      "source": "idahostatesman.com",
+      "source": "Idaho Statesman",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
       "pub_ts": 1788850800.0
     },
@@ -41,12 +47,6 @@
       "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
       "source": "SecurityWeek",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc01rYTQ2UnBLVjRubjd1NjVwWWQwancyTzM3RXhQNEJyeXNzSFl1d0czb2pEZ0diVU1udGRCbjBSTHMtb1c4R2xvLVRqbmVsd2ZEdGJOQ2s5YzJaV2JFdWRQekFKSjU1QVc1bVdOM040QXlpc0RKUWNYMW8zcEhzdmxibHd6eDlZZ3JHdGliNXFpVkVibUNlV3k1NmtudW5sYjYzNzlMUdIBrAFBVV95cUxPUUhnc05nYkxfYUdwWlFtb25GY0dLcUxtdEJFckYycmlGc0p6NHc4ckZJMWJZd29yRU5ZQlRpSUJJS1oxdDZVcEllcFR6MEpfMkJ3U2RsOXZIODktTW1DUHAzMDhIR1UxSTlzY2p6TWJoWHloRC0tTWwzWmdFbzFSYzI5TklOa0s0c2xKZEpsMW1IcGprblhjenY1WmlkdHNHeTZneDg0cmhMUXRJ?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "FBI probe into cyberattacks on US water systems expands after tech supplier is targeted",
-      "source": "The Independent",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQckdObW1LTWttd0V3WWlfbjRBLXNRa0syWjJOU2VJRUpzMHlSOVRJc2VjRS1rZHF6UEdYbTBaWWozSmV2UnFFUUhoV3E4VVZxS2w1R0FIa1IwQzFJMFZEZWZuLXBkdUNTVG5Fc1R4a2pDekJRMGZsdjgzZ0RDYlJuaC14LWhEQ1dzNmxjUjdPUVRtQ0d1S2c?oc=5",
       "pub_ts": 1787727600.0
     }
   ]
