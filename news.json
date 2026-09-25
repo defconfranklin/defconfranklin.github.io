@@ -1,23 +1,17 @@
 {
-  "generated_at": 1790343819.80699,
+  "generated_at": 1790366437.2618706,
   "articles": [
     {
-      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
-      "pub_ts": 1790222552.0
+      "title": "Why Water Utility Attacks Show You Can\u2019t Trust a Compromised Network",
+      "source": "CPO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWwzMEVqVWJIem5YcUwxc2Y4U0JuMnRMYWp1eUk3TkhkQktXaDJpQzZlTkFWOFZKQXd2NTA3UVBuWV9Yamh6YmhPdEM0dktESElFblA1akxKb2o5LWJUUnFWSUdVMTRCS3d2OWxCZ04zVjVxWnV6X2Vka3BuUWtkXzVqc01TZ1BqSlAwbTFWNkV4a0tvak55cEdpaDN3ZER5TDRkdDRrZURlUmVyVlRxYg?oc=5",
+      "pub_ts": 1790334000.0
     },
     {
       "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
-      "source": "KKTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXBsaThXUXFBTW5JdUJ4Y0ZWY2R0VDlfdUhVQ0dUaHU5TW4xM0lOZlZqU21YZ0J0RnVxYU5YbW5VZ1l1WUhHR1I4WW9wNEJWUlBhQkZSQUxHeGZCUmxCQXdqQ0MtUzR5WnVaQmdNRkxwLXFQU1lILWFmYWl1V3NnMWFLNWpnV2xLSGFPZXhseXVucU9nWGlYNUVyN1lsOWs1VDhRak9Zc3RTdkxWQU5vSzZ1SzVDZ1RLekRj0gHPAUFVX3lxTE9NN0tkTWV2VEtzSEJTTU9HUDlJLVhOZS1UdGhETFFGd0NpU2JhOUxZaUQwV3Frd1BSRlNxQ3BnVVQzN3pKY2x1WWhYYWdFbUQ4S2xlVUtNOTRla0E2amY0LVpBR0lsMWtTZjFNcE5ZSmE1ZkV6c1JfOWxmclZxWDdFUjIwblhsX3d4b01tWG1DX0hrdzF4a3VJbHlnV2lXT1kxbkRaVTBfUnBGVDM1c0hiQnRUekp1T3FmNlIwTmVSeGprZG1Kdk01Qnd0blhtdw?oc=5",
-      "pub_ts": 1790107680.0
-    },
-    {
-      "title": "Colorado water hackers make waves, but water stays safe",
-      "source": "Cybernews",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcV9vbkFmNFpqUWtEMlVCcjdaODlvMEFwLVcxVV9VSHJ2N1dBelRZaERBSTV6YzhfN2RxdXMyc2cwRUNlcVVUa1l1bjRnNGtaZGRPY0twOERsZXp0OUtCaS1QazEycURWWnc1V0V1Q2trVHVoNnc3YlZCRjhCa0N4cUFTLUl3U0lG?oc=5",
-      "pub_ts": 1790060511.0
+      "source": "Denver7",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlNGenFZYXJlWjFFNFVHenpSMDJkYUcxMVNBbDVRTUJHemZXV1F6N3I0QThVVWJmTTcwVUJkblpqLXhGaDJwNTlwOTUxUDAycFZMVHRKTnVmaGJWRVNYQy01SUNWeDRQOE10OU1VRGRQME1meVBncmVCa1o1cTNkSWZ5amw3dFJ4MTZ0UWRyX0lYSXBkb2t4LW82VktIaGQ4aTE3OUFSYUswYzRGb3Y3RW9BdGs4YjFMek5UYVQ0Vm9seWoz?oc=5",
+      "pub_ts": 1790085807.0
     },
     {
       "title": "Cybersecurity breach affected two small Colorado water providers, governor says",
@@ -39,7 +33,7 @@
     },
     {
       "title": "Foreign actors breach Colorado water systems",
-      "source": "axios.com",
+      "source": "Axios",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
       "pub_ts": 1789754487.0
     },
@@ -48,6 +42,12 @@
       "source": "Idaho Statesman",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMlVXSGRJWmtOWEZOU2xsWWJiMFZTUDlyUGxBUlE2dlFSSTQ2YTVLSG9WQnpnUnpCTVVBOUpLZTJNc3ZWWmxxbWRkSG5USTVZTkRIWVVfd01XUlhQNHA3RmNaM213STdYdFdnYVFMQmhhZEVWanZ6eWdOQzJibHNkbmwtdjZDTTlWeXpFeXFNdUNxNS0zMGVj0gGXAUFVX3lxTE12MGpGZ1MxSmg3ZnFVUDlobHgyU1RrbU00VFZLcU5rQ0l3aE4zQkNKZHM4OEZ4OHp0b2QtV2JidzNVSWxpaVFrWGtVSFB0amhYVmVzejVaeml5MG1QSnFQUjN1ZEwwSGZ2VlVhckVyNG9BTGc3bHVmY1p2MnpYQUFnX05ZVFZZM25YcGJkSUljTWctSzVjVWM?oc=5",
       "pub_ts": 1788850800.0
+    },
+    {
+      "title": "Cyberattacks target water systems across Georgia, federal authorities investigating possible Iran connection",
+      "source": "WJBF",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDNybF9rdS04WFBZdmFpUGpZNlIzZ2tRbG5OcThkcW9hM1RQTkEwcV9mWkMwaTRRbTd2dTAtVzJoOFpuUDZvRHc4eHUySkt0eTlDRlM0bVpTSEw3RmU4NXhTYUo2WkxOa2p1Sk9lT3BCQXFEWEt3ektCaDAzQjUyM01taFFVNk1STERidGV6enR2UTFxVjhpWnpFdXFDTjFGRDJZejZxQXpzS2lHUHl6V2IzcU85Y0ZJckZKUGZ0ZzZ0REpBTW9KMGlzeWoxRmvSAdQBQVVfeXFMUHExS1lSUUJ1OFhnMXRPeHpLWGFlalBjeG5oSk1QUzFVanN6X29taU9PbFlfb0lhZmNTa0xUS2VCTE51V053MGU3cUdnTEYtVlBkOGpVLXllMV9Fc19rQnZsR2FOcG1TMFF3QUFoQkhkNnV5MDdSUkRmdHpsNjBGaG5ZcjlvemwyOFNsb1Q1SnJEeHEySFVEdmRkX296S0g4VWtWZVZnekJUNGdSMlMtWmh3WW1wQmZIZEVsTG9uMU1DZVFuQ1g1ZUVUZENrVDd4MlMzX0g?oc=5",
+      "pub_ts": 1788764400.0
     }
   ]
 }
