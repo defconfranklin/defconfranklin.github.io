@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790427755.5327954,
+  "generated_at": 1790449928.8501031,
   "articles": [
     {
       "title": "Following cyberattack on Springfield schools, Water & Sewer says it\u2019s prepared but \u2018under constant attack\u2019",
@@ -14,6 +14,12 @@
       "pub_ts": 1790334000.0
     },
     {
+      "title": "At least 12 states face cyberattacks on their water systems, sources say",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
+      "pub_ts": 1790315396.0
+    },
+    {
       "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
       "source": "Denver7",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlNGenFZYXJlWjFFNFVHenpSMDJkYUcxMVNBbDVRTUJHemZXV1F6N3I0QThVVWJmTTcwVUJkblpqLXhGaDJwNTlwOTUxUDAycFZMVHRKTnVmaGJWRVNYQy01SUNWeDRQOE10OU1VRGRQME1meVBncmVCa1o1cTNkSWZ5amw3dFJ4MTZ0UWRyX0lYSXBkb2t4LW82VktIaGQ4aTE3OUFSYUswYzRGb3Y3RW9BdGs4YjFMek5UYVQ0Vm9seWoz?oc=5",
@@ -26,12 +32,6 @@
       "pub_ts": 1789774106.0
     },
     {
-      "title": "Foreign hackers breach two more US water utilities, threaten safety of Colorado residents",
-      "source": "930 WFMD Free Talk",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOelJ5MDJRMHZldXRWZkhPZE8waHdtTWlTX0NRZGxpU2w2cEdjczNuX2hlY3NlV1pNd0VieG9ZLTIyOXM3T1pMdlYwTko1dXNINzE5eFBrRjdjMWM0eEdrRHhaakRWUVVkdkN4bzM3MG13R2t1WXlpYXFOOFFyVUNrbmRsTnExTkNoaXV2Yi14UFdoc05hUDczcUJvU1RDaEpYYlhDUXJyOXNzS2x1b3JXbkExR19jLU1tdU9zMEJB?oc=5",
-      "pub_ts": 1789766052.0
-    },
-    {
       "title": "Foreign Hackers Breach Colorado Water Utilities, Prompt Statewide Alert",
       "source": "KFI AM 640",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFg4RnhUczFtbjR1WEdZUndfTk15c2NIaW5hckFGTUNBS0RLbmhNVE55RXplcmJHb18yVXFlNFFMWFZwRUNJMzVyQm9tV2hmM3JDYjB2amxDT09UR0NUMnBvN0RrSkp1YTZDelFUMkp1dm03Zkh5SnlWVG1LS0JRNHZSbVRfdGYtaFN6VG9WNXlMRmhIdHo3QXI3SU42MFRwakhCV1FsdkY1ZnFXVnE2cDVXTlBtQWxjeDgzbnhTUU9Sdl9xZ0VtRmJVWk42d2h0UVBlWWZyRQ?oc=5",
@@ -41,13 +41,13 @@
       "title": "Foreign hackers breach two more US water utilities, threaten safety of Colorado residents",
       "source": "Fox News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
-      "pub_ts": 1789759441.0
+      "pub_ts": 1789714800.0
     },
     {
       "title": "Foreign actors breach Colorado water systems",
       "source": "Axios",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
-      "pub_ts": 1789754487.0
+      "pub_ts": 1789714800.0
     }
   ]
 }
