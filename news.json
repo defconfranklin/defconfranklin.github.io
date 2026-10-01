@@ -1,5 +1,5 @@
 {
-  "generated_at": 1790801279.190498,
+  "generated_at": 1790833635.2907777,
   "articles": [
     {
       "title": "WSSC Water: No Signs of Cyberattack in Potomac Plant Power Outage",
@@ -26,6 +26,18 @@
       "pub_ts": 1790107680.0
     },
     {
+      "title": "Foreign Hackers Breach Colorado Water Utilities, Prompt Statewide Alert",
+      "source": "iHeart",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2VPeW56aldwOEVVR3Z0bVE5RHlYVXdCVi1lWURucFpNRFQ0NmNfSWxnNFVPX25BUXM2ZWpyTTRBeUNOREFPUDFWMWhxT09rbGdjYmVxYXRhanZzUVNMVVhrMVRROHVOXzFKZE41SnUweWxnSEJXdHE5WG1jVUFrbUx0Q3V4WThDd0FwTVVZZmEzQ3ZEOW1tcGV2bXcyRDNaT3BGTlFNc0QzaTBWWGl6ZEM3dTA?oc=5",
+      "pub_ts": 1789765329.0
+    },
+    {
+      "title": "Foreign Hackers Breach Colorado Water Utilities, Prompt Statewide Alert",
+      "source": "KFI AM 640",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFg4RnhUczFtbjR1WEdZUndfTk15c2NIaW5hckFGTUNBS0RLbmhNVE55RXplcmJHb18yVXFlNFFMWFZwRUNJMzVyQm9tV2hmM3JDYjB2amxDT09UR0NUMnBvN0RrSkp1YTZDelFUMkp1dm03Zkh5SnlWVG1LS0JRNHZSbVRfdGYtaFN6VG9WNXlMRmhIdHo3QXI3SU42MFRwakhCV1FsdkY1ZnFXVnE2cDVXTlBtQWxjeDgzbnhTUU9Sdl9xZ0VtRmJVWk42d2h0UVBlWWZyRQ?oc=5",
+      "pub_ts": 1789764540.0
+    },
+    {
       "title": "Foreign actors breach Colorado water systems",
       "source": "Axios",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
@@ -36,18 +48,6 @@
       "source": "Fox News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
       "pub_ts": 1789714800.0
-    },
-    {
-      "title": "Cybersecurity breach affected two small Colorado water providers, governor says",
-      "source": "krdo.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sQTU3bGh0bWRMNlQ4cW1oajAtYi1aTlhGSnZ4RTd1d3NpczFkNGZUU3ppaGdhTlhKLWVzR1RyVHM0eTcyYmVvUlE1OE9IWWo4VWVscF9UOFN3RVFIRktQZ3loLTAtaDRua1lFVTg4bXdCcnFVc01r?oc=5",
-      "pub_ts": 1789714800.0
-    },
-    {
-      "title": "Cyberattacks target water systems across Georgia, federal authorities investigating possible Iran connection",
-      "source": "WJBF",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDNybF9rdS04WFBZdmFpUGpZNlIzZ2tRbG5OcThkcW9hM1RQTkEwcV9mWkMwaTRRbTd2dTAtVzJoOFpuUDZvRHc4eHUySkt0eTlDRlM0bVpTSEw3RmU4NXhTYUo2WkxOa2p1Sk9lT3BCQXFEWEt3ektCaDAzQjUyM01taFFVNk1STERidGV6enR2UTFxVjhpWnpFdXFDTjFGRDJZejZxQXpzS2lHUHl6V2IzcU85Y0ZJckZKUGZ0ZzZ0REpBTW9KMGlzeWoxRmvSAdQBQVVfeXFMUHExS1lSUUJ1OFhnMXRPeHpLWGFlalBjeG5oSk1QUzFVanN6X29taU9PbFlfb0lhZmNTa0xUS2VCTE51V053MGU3cUdnTEYtVlBkOGpVLXllMV9Fc19rQnZsR2FOcG1TMFF3QUFoQkhkNnV5MDdSUkRmdHpsNjBGaG5ZcjlvemwyOFNsb1Q1SnJEeHEySFVEdmRkX296S0g4VWtWZVZnekJUNGdSMlMtWmh3WW1wQmZIZEVsTG9uMU1DZVFuQ1g1ZUVUZENrVDd4MlMzX0g?oc=5",
-      "pub_ts": 1788764400.0
     }
   ]
 }
