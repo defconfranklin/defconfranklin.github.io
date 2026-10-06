@@ -1,17 +1,11 @@
 {
-  "generated_at": 1791285261.7939756,
+  "generated_at": 1791310758.9775836,
   "articles": [
     {
       "title": "Margaritaville developer denies runoff breach after murky water photos surface",
       "source": "WEAR-TV",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDR1bkIwZ3VQX2pwYWNwd0c5RlNNa19QQi1Qck1PaUVISDBJUDAtNXR0RUR5bWtaWTZiaklmZ0tBWHd2ckIxWlczMkFrVXQ2SHlTRWtGNlJNb0t2WDE3anJGZnZqRl9aZDYwVzNLN2lCMEtyVlFzcUNXOG0zT3dBMWxPVVBXbXN4R3B5N2xEZ2tkTURZbFpIZWxJSGx4ay0tWHR0NFpTVXY5NFNf?oc=5",
       "pub_ts": 1791257718.0
-    },
-    {
-      "title": "How foreign hackers could \u2018crumble\u2019 America by targeting one essential utility",
-      "source": "930 WFMD Free Talk",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjE2MUQ3QWM4cDVnY0RPM1V0ajM5cy1Xck80ekxUSkNzNlF1ZmtDaXNfc3FfR0NwUVN6SWkwMWd6TXJ1V28xZl94bkVLS055aFJMQjJ4R29MRjhILWdlN0V6aUJPRENYTjRrUkdXcmt1QS1tZXE1U083XzVCbUQzZHFPRWN3ZzQ5ZW9TR3dCRV9YSWRjdWt0N0ZhVW5qUWlVOGZCcUc2M1VScU01b1E?oc=5",
-      "pub_ts": 1791025909.0
     },
     {
       "title": "Terrebonne Parish official reports drinking water, data safe",
@@ -26,6 +20,12 @@
       "pub_ts": 1790953723.0
     },
     {
+      "title": "WSSC Water: No Signs of Cyberattack in Potomac Plant Power Outage",
+      "source": "The MoCo Show -",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0F0bnhFUFc2LVN6NkhGVDB1bFhDdVpSOVo3aXVMbnF6TC1XcHZjQ2MxYVZWWmJ1SHBzcDNScm1BWm9aVVFYRXJIRk1zdE5GdWtXRW9XdDFtVU53bllEVWFVay13NUx6eUZaeFNMdGFraXNwS25PeGNBMHJqdmdKQmptNFoyZzdyNV80S0p1N1pRZVYyRWNSdGRDbXBPUQ?oc=5",
+      "pub_ts": 1790742541.0
+    },
+    {
       "title": "'We're chasing a moving target,' water plant cybersecurity experts say",
       "source": "Spectrum News",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEczNzNJc1J2ZXR4djV6cXZCOUlKLXhZMl84ZmVXdUx1Nkt5algyZkNibW5LQ1BSLU9uM1ozeFA5bGJuZjlNSS15UnZBWC15NkNNdzdwandfSTBDTkpicy10SF9EenRMR08xR1U5czVQSUtQUlV5aEZERVZJOEMtTlQ4OVRCVFQ4RnJYaFVZeHlGVjBWZFotYkFMSGtMUS12TVBmNTg3dUx3VXBCRlJVd3NUTmt5Y3F1c0pMWWJFcm9MQzJ3b2VUMQ?oc=5",
@@ -35,19 +35,19 @@
       "title": "Massive algae bloom exposes fragility of Israel\u2019s advanced water system",
       "source": "NBC News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXJMaW9PMDk2UUEtdWxGZVpCYzZoSldEYXR4SnlWWFZWa3JDaU9hb2VQRjRRQmxtMGp5M2JOWVlrLXlrdDVSbFowei1aUzA2OW91QkdlN1NkTEpKR2xrQWYtS1cySHVDNnF6a0VZd1RQdjlpMDlJWGxQRFJmbE5ybnA0LVZzY2djTTZxQWVKNTdGRjJjOWYwTlJVbnAzUXI1NWlGRWdRYnBfQ19xVjB0UUlNNXRkUQ?oc=5",
-      "pub_ts": 1790586040.0
+      "pub_ts": 1790578800.0
     },
     {
-      "title": "Foreign actors breach Colorado water systems",
-      "source": "Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
-      "pub_ts": 1789714800.0
+      "title": "Why Water Utility Attacks Show You Can\u2019t Trust a Compromised Network",
+      "source": "CPO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWwzMEVqVWJIem5YcUwxc2Y4U0JuMnRMYWp1eUk3TkhkQktXaDJpQzZlTkFWOFZKQXd2NTA3UVBuWV9Yamh6YmhPdEM0dktESElFblA1akxKb2o5LWJUUnFWSUdVMTRCS3d2OWxCZ04zVjVxWnV6X2Vka3BuUWtkXzVqc01TZ1BqSlAwbTFWNkV4a0tvak55cEdpaDN3ZER5TDRkdDRrZURlUmVyVlRxYg?oc=5",
+      "pub_ts": 1790334000.0
     },
     {
-      "title": "Foreign hackers breach two more US water utilities, threaten safety of Colorado residents",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
-      "pub_ts": 1789714800.0
+      "title": "Foreign Hackers Breach Colorado Water Utilities, Prompt Statewide Alert",
+      "source": "KFI AM 640",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTU9DZ3NOcTBIcDE1S0FIZUNDNWVEXzh4a05KUWdpc3ZJS1VfanMwTVFkYm5BTVJGcWVBYnV1dmNRMW5YRks2WXItMmo2eWMwbVZvZzV3aTY5ZFJ0cHdsdkVvOU9fVkJ1aVQwcUtqMUpYa3kyLU9qVTJKbDVFdU5NLUZiNEd0R3ZwTmRnQTRSSlZqMENhNUFSUjdBVGVkV3poZUJzWHpEME9Jd0k4OGJ4eWVkS2ZCVDhvM19sR1lQOUhVMDFxcGNpbTV3V2ExS2NvNmJLeEVGRmg?oc=5",
+      "pub_ts": 1789764540.0
     }
   ]
 }
