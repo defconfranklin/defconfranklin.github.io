@@ -1,11 +1,17 @@
 {
-  "generated_at": 1791473615.1615655,
+  "generated_at": 1791494236.9397216,
   "articles": [
     {
       "title": "Margaritaville developer denies runoff breach after murky water photos surface",
       "source": "WEAR-TV",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZDR1bkIwZ3VQX2pwYWNwd0c5RlNNa19QQi1Qck1PaUVISDBJUDAtNXR0RUR5bWtaWTZiaklmZ0tBWHd2ckIxWlczMkFrVXQ2SHlTRWtGNlJNb0t2WDE3anJGZnZqRl9aZDYwVzNLN2lCMEtyVlFzcUNXOG0zT3dBMWxPVVBXbXN4R3B5N2xEZ2tkTURZbFpIZWxJSGx4ay0tWHR0NFpTVXY5NFNf?oc=5",
       "pub_ts": 1791257718.0
+    },
+    {
+      "title": "WSSC Water: No Signs of Cyberattack in Potomac Plant Power Outage",
+      "source": "The MoCo Show -",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0F0bnhFUFc2LVN6NkhGVDB1bFhDdVpSOVo3aXVMbnF6TC1XcHZjQ2MxYVZWWmJ1SHBzcDNScm1BWm9aVVFYRXJIRk1zdE5GdWtXRW9XdDFtVU53bllEVWFVay13NUx6eUZaeFNMdGFraXNwS25PeGNBMHJqdmdKQmptNFoyZzdyNV80S0p1N1pRZVYyRWNSdGRDbXBPUQ?oc=5",
+      "pub_ts": 1790742541.0
     },
     {
       "title": "'We're chasing a moving target,' water plant cybersecurity experts say",
@@ -20,6 +26,18 @@
       "pub_ts": 1790578800.0
     },
     {
+      "title": "Why Water Utility Attacks Show You Can\u2019t Trust a Compromised Network",
+      "source": "CPO Magazine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWwzMEVqVWJIem5YcUwxc2Y4U0JuMnRMYWp1eUk3TkhkQktXaDJpQzZlTkFWOFZKQXd2NTA3UVBuWV9Yamh6YmhPdEM0dktESElFblA1akxKb2o5LWJUUnFWSUdVMTRCS3d2OWxCZ04zVjVxWnV6X2Vka3BuUWtkXzVqc01TZ1BqSlAwbTFWNkV4a0tvak55cEdpaDN3ZER5TDRkdDRrZURlUmVyVlRxYg?oc=5",
+      "pub_ts": 1790334000.0
+    },
+    {
+      "title": "Foreign Hackers Breach Colorado Water Utilities, Prompt Statewide Alert",
+      "source": "KFI AM 640",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTU9DZ3NOcTBIcDE1S0FIZUNDNWVEXzh4a05KUWdpc3ZJS1VfanMwTVFkYm5BTVJGcWVBYnV1dmNRMW5YRks2WXItMmo2eWMwbVZvZzV3aTY5ZFJ0cHdsdkVvOU9fVkJ1aVQwcUtqMUpYa3kyLU9qVTJKbDVFdU5NLUZiNEd0R3ZwTmRnQTRSSlZqMENhNUFSUjdBVGVkV3poZUJzWHpEME9Jd0k4OGJ4eWVkS2ZCVDhvM19sR1lQOUhVMDFxcGNpbTV3V2ExS2NvNmJLeEVGRmg?oc=5",
+      "pub_ts": 1789764540.0
+    },
+    {
       "title": "Foreign actors breach Colorado water systems",
       "source": "Axios",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDNrVUF4TERZSzVCeG1Ib0d0ZlZVcDRfeXNEdkFhRlNRUE4tTVVMVklrMDBjanhjOUlkQklROHI3WFptVmRnYlZSOU9pZldjR29BX2FieGNyRmE0dHEzVWJyYmRHQmFVamhQc0g2ZnNheE5QQmVTdXdRbWJsOW5kb1ZtQmZNdGhx?oc=5",
@@ -30,24 +48,6 @@
       "source": "Fox News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
       "pub_ts": 1789714800.0
-    },
-    {
-      "title": "Cyberattacks target water systems across Georgia, federal authorities investigating possible Iran connection",
-      "source": "WJBF",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDNybF9rdS04WFBZdmFpUGpZNlIzZ2tRbG5OcThkcW9hM1RQTkEwcV9mWkMwaTRRbTd2dTAtVzJoOFpuUDZvRHc4eHUySkt0eTlDRlM0bVpTSEw3RmU4NXhTYUo2WkxOa2p1Sk9lT3BCQXFEWEt3ektCaDAzQjUyM01taFFVNk1STERidGV6enR2UTFxVjhpWnpFdXFDTjFGRDJZejZxQXpzS2lHUHl6V2IzcU85Y0ZJckZKUGZ0ZzZ0REpBTW9KMGlzeWoxRmvSAdQBQVVfeXFMUHExS1lSUUJ1OFhnMXRPeHpLWGFlalBjeG5oSk1QUzFVanN6X29taU9PbFlfb0lhZmNTa0xUS2VCTE51V053MGU3cUdnTEYtVlBkOGpVLXllMV9Fc19rQnZsR2FOcG1TMFF3QUFoQkhkNnV5MDdSUkRmdHpsNjBGaG5ZcjlvemwyOFNsb1Q1SnJEeHEySFVEdmRkX296S0g4VWtWZVZnekJUNGdSMlMtWmh3WW1wQmZIZEVsTG9uMU1DZVFuQ1g1ZUVUZENrVDd4MlMzX0g?oc=5",
-      "pub_ts": 1788764400.0
-    },
-    {
-      "title": "Government admits water system cyberattacks were worse than first reported",
-      "source": "NBC 5 Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
-      "pub_ts": 1787727600.0
-    },
-    {
-      "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
-      "pub_ts": 1787727600.0
     }
   ]
 }
