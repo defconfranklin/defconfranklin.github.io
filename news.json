@@ -1,12 +1,6 @@
 {
-  "generated_at": 1791934973.8836713,
+  "generated_at": 1791953316.7603858,
   "articles": [
-    {
-      "title": "At least 12 states face cyberattacks on their water systems, sources say",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
-      "pub_ts": 1791727246.0
-    },
     {
       "title": "Feds issue warning to local water systems over increased cyberattacks, following Minnesota incident",
       "source": "ABC7 Bay Area",
@@ -48,6 +42,12 @@
       "source": "Cybernews",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcV9vbkFmNFpqUWtEMlVCcjdaODlvMEFwLVcxVV9VSHJ2N1dBelRZaERBSTV6YzhfN2RxdXMyc2cwRUNlcVVUa1l1bjRnNGtaZGRPY0twOERsZXp0OUtCaS1QazEycURWWnc1V0V1Q2trVHVoNnc3YlZCRjhCa0N4cUFTLUl3U0lG?oc=5",
       "pub_ts": 1790060400.0
+    },
+    {
+      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
+      "source": "SecurityWeek",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzNvR21kbVktSWFvckw0ZXpBWlpDTWtYT01WcUNpVFJldFdoWHJlUlZJd3dYaGJVZHUwY2JDeDY1S1VGdkVWNUJ3RVRzVU5oekltQTV3eUpPY0JUS18zQnVneHJtd1kzQUc2WmF6VnRIdC1IUFBvbk1idE5UZlpVeXRTWF9TRmYyTDJ1LVczYklYQXg4N3EtLTU0MNIBoAFBVV95cUxQeTdxcVZmdEhRWGd1Z2o5SjZHLTZIc2tzTVhxOXJsaHJUQklMbk1NQVJ1b0QxTWM3S3BhNlh0NnkzTVVBNGUwY29BMk1vbnF3SHRMdHFjLTROTWxTdUw3WFR0MFc0cTFGVEZQNzRkd2lhYl9YWjlNZEhMaGk3allSMHVfMC1Zck05YU1oUkVCRzNFYkhNX2tBSWtaQ294OTlH?oc=5",
+      "pub_ts": 1789974000.0
     }
   ]
 }
