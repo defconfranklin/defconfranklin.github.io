@@ -1,11 +1,29 @@
 {
-  "generated_at": 1792845541.3826087,
+  "generated_at": 1792867566.0449405,
   "articles": [
+    {
+      "title": "At least 12 states face cyberattacks on their water systems, sources say",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
+      "pub_ts": 1792803978.0
+    },
+    {
+      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
+      "source": "ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
+      "pub_ts": 1792801125.0
+    },
     {
       "title": "100+ US Water Plants Hacked via Exposed PLCs [2026]",
       "source": "shattered.io",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EczNqZ1R4OGRkU04wc3NwMVZlS0JJNXAtU1IxV2xwN3lpZVBNX1BLMVp4UzZOUW5hal94MlJQcHlPenV0TUJCZFowZUVFQ0VUbm95amkxTmVjVjhVdjA0RGZHX3F0bzA?oc=5",
       "pub_ts": 1792306800.0
+    },
+    {
+      "title": "Ransomware disrupts Vicksburg utility payments",
+      "source": "Vicksburg Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3BGT3ZIWUJMNDdHNFh4TmZWaDF0blFMVElhbW5fWUZPcVlFRnVKT25pTmdwOGlCNDNQdy1jZFhqVmZYcTF5dndlbFJubVRFQlVGQ2llUG1wQ1EyTFNOcUlNNEpERnE4SURhTDgyLWpLRTNZRnJjLTU1Mi1ySm5FeE83dFFRUTBGRVpqTC04RGdHeHBo?oc=5",
+      "pub_ts": 1791270000.0
     },
     {
       "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
@@ -20,34 +38,16 @@
       "pub_ts": 1790578800.0
     },
     {
+      "title": "Massive algae bloom exposes fragility of Israel\u2019s advanced water system",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXJMaW9PMDk2UUEtdWxGZVpCYzZoSldEYXR4SnlWWFZWa3JDaU9hb2VQRjRRQmxtMGp5M2JOWVlrLXlrdDVSbFowei1aUzA2OW91QkdlN1NkTEpKR2xrQWYtS1cySHVDNnF6a0VZd1RQdjlpMDlJWGxQRFJmbE5ybnA0LVZzY2djTTZxQWVKNTdGRjJjOWYwTlJVbnAzUXI1NWlGRWdRYnBfQ19xVjB0UUlNNXRkUQ?oc=5",
+      "pub_ts": 1790578800.0
+    },
+    {
       "title": "Utah is among states battling increasing cyberattacks on water systems",
       "source": "Deseret News",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRElWLXlwNjhwc0Z6aEp1S2VudU82MWp0cHZST1VkWGtpUG8xU1JlZVhOVktNc3Bvd3BpcW56ZFd0U3J2dVFyRGlwS1Rfdzd1NUFQeUNOa2xKRjljOUk3eU1GZ1pIZy1tblNWZVA4cjFXYnR6cXlnSXVFTXpoTUprOWhES3V2dm8wdTNVZkgwUmx0bDQ4dnZLNEwxRWJyTnI3TngzLUhUNUNBRGRVZE1hM2RrQUFxZnF2c1ZhMU9n?oc=5",
       "pub_ts": 1790319600.0
-    },
-    {
-      "title": "Cyber Threats Put Water Systems at Risk",
-      "source": "The Pew Charitable Trusts",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjZiaVFkRWxsZUpQYUJFdnZWd09KcUF5bFBuejllUjVqel9Sb2dER1k0UjJlb1hfa3BYYmE2NUVNamlSWUtRbDZ0cFFQRFczcHBwX3M4akUtRUY2LVExLTBNcFdWdEg3dlZ5M09kYUU4OHZqN09mbDV1VW1hZ3h1TUdlX0xUOFV4aXpxMXpyTDUxVXYwVnNibFp5TXdtUWZiUGRQaVh4UQ?oc=5",
-      "pub_ts": 1790060400.0
-    },
-    {
-      "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
-      "source": "Denver7",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlNGenFZYXJlWjFFNFVHenpSMDJkYUcxMVNBbDVRTUJHemZXV1F6N3I0QThVVWJmTTcwVUJkblpqLXhGaDJwNTlwOTUxUDAycFZMVHRKTnVmaGJWRVNYQy01SUNWeDRQOE10OU1VRGRQME1meVBncmVCa1o1cTNkSWZ5amw3dFJ4MTZ0UWRyX0lYSXBkb2t4LW82VktIaGQ4aTE3OUFSYUswYzRGb3Y3RW9BdGs4YjFMek5UYVQ0Vm9seWoz?oc=5",
-      "pub_ts": 1790060400.0
-    },
-    {
-      "title": "Colorado water utilities face foreign cyberattacks targeting pumps, alarms and remote access",
-      "source": "Industrial Cyber",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFIyUnB0bkE0N25PM040dWVha05maEFsOHM5QlN5VU5wNl9NaUJyRWJyd1pGUmhpX0h0SVZSTGRzV2JKclJHNmZaRFR6UzFxZWJ2dEN3ak9MOXpNSzVvMmFtdmx6YVJfWDFaS056aU1CRmc0dVNCT3BGeVU3NFlXWTVLbTFiMUR0aEhNbzg1azVMMlRnRV8xTDYwb1cwZ2xLZ1doLXpJTXpJZ3I1amJfUkp4YndmZ2Q3RW5PUHBLYWRaOGZpRFhzWkZ6bEI5dEE3ZTc0TjBWMVlleHpxS2ZHYWhNQXhwdnQzQmc?oc=5",
-      "pub_ts": 1790060400.0
-    },
-    {
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "source": "SecurityWeek",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzNvR21kbVktSWFvckw0ZXpBWlpDTWtYT01WcUNpVFJldFdoWHJlUlZJd3dYaGJVZHUwY2JDeDY1S1VGdkVWNUJ3RVRzVU5oekltQTV3eUpPY0JUS18zQnVneHJtd1kzQUc2WmF6VnRIdC1IUFBvbk1idE5UZlpVeXRTWF9TRmYyTDJ1LVczYklYQXg4N3EtLTU0MNIBoAFBVV95cUxQeTdxcVZmdEhRWGd1Z2o5SjZHLTZIc2tzTVhxOXJsaHJUQklMbk1NQVJ1b0QxTWM3S3BhNlh0NnkzTVVBNGUwY29BMk1vbnF3SHRMdHFjLTROTWxTdUw3WFR0MFc0cTFGVEZQNzRkd2lhYl9YWjlNZEhMaGk3allSMHVfMC1Zck05YU1oUkVCRzNFYkhNX2tBSWtaQ294OTlH?oc=5",
-      "pub_ts": 1789974000.0
     }
   ]
 }
