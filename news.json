@@ -1,17 +1,11 @@
 {
-  "generated_at": 1792902958.3018703,
+  "generated_at": 1792954861.8548968,
   "articles": [
-    {
-      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
-      "pub_ts": 1792829674.0
-    },
     {
       "title": "At least 12 states face cyberattacks on their water systems, sources say",
       "source": "ABC News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
-      "pub_ts": 1792803978.0
+      "pub_ts": 1792855073.0
     },
     {
       "title": "100+ US Water Plants Hacked via Exposed PLCs [2026]",
@@ -44,10 +38,16 @@
       "pub_ts": 1790578800.0
     },
     {
-      "title": "Utah is among states battling increasing cyberattacks on water systems",
-      "source": "Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRElWLXlwNjhwc0Z6aEp1S2VudU82MWp0cHZST1VkWGtpUG8xU1JlZVhOVktNc3Bvd3BpcW56ZFd0U3J2dVFyRGlwS1Rfdzd1NUFQeUNOa2xKRjljOUk3eU1GZ1pIZy1tblNWZVA4cjFXYnR6cXlnSXVFTXpoTUprOWhES3V2dm8wdTNVZkgwUmx0bDQ4dnZLNEwxRWJyTnI3TngzLUhUNUNBRGRVZE1hM2RrQUFxZnF2c1ZhMU9n?oc=5",
-      "pub_ts": 1790319600.0
+      "title": "Cyber Threats Put Water Systems at Risk",
+      "source": "The Pew Charitable Trusts",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjZiaVFkRWxsZUpQYUJFdnZWd09KcUF5bFBuejllUjVqel9Sb2dER1k0UjJlb1hfa3BYYmE2NUVNamlSWUtRbDZ0cFFQRFczcHBwX3M4akUtRUY2LVExLTBNcFdWdEg3dlZ5M09kYUU4OHZqN09mbDV1VW1hZ3h1TUdlX0xUOFV4aXpxMXpyTDUxVXYwVnNibFp5TXdtUWZiUGRQaVh4UQ?oc=5",
+      "pub_ts": 1790060400.0
+    },
+    {
+      "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
+      "source": "Denver7",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlNGenFZYXJlWjFFNFVHenpSMDJkYUcxMVNBbDVRTUJHemZXV1F6N3I0QThVVWJmTTcwVUJkblpqLXhGaDJwNTlwOTUxUDAycFZMVHRKTnVmaGJWRVNYQy01SUNWeDRQOE10OU1VRGRQME1meVBncmVCa1o1cTNkSWZ5amw3dFJ4MTZ0UWRyX0lYSXBkb2t4LW82VktIaGQ4aTE3OUFSYUswYzRGb3Y3RW9BdGs4YjFMek5UYVQ0Vm9seWoz?oc=5",
+      "pub_ts": 1790060400.0
     }
   ]
 }
