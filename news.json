@@ -1,24 +1,6 @@
 {
-  "generated_at": 1793393089.8279052,
+  "generated_at": 1793424888.366257,
   "articles": [
-    {
-      "title": "Water System Cyberattacks Hit 12 US States [2026]",
-      "source": "shattered.io",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndU0xOVhWdHlWTnZrcGFOV3JScEVtajRKa2t3WTBLOWZxakZ0MWdIWnYwVlNWSnktWWYxcHVQQlV6RGFEam5pUDNvXzZhMXZsQmNJa3ZVY0VpMDI0NlRIOWdMRmc0VV80RTAwZ3Y1ejZTU3hyU0M0RA?oc=5",
-      "pub_ts": 1792306800.0
-    },
-    {
-      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm9RamhybVpJbHk5dFFMUVF4aDZka1JDNG54LUstb1NnY2FoZ2RRWHNDdVNZUEtIbjAxUXpXVFEtVkxZMllxS0dTR1QtWHFjbHltdWtSNGlGWDRPSW1Sc0JyQVNFdlBzd1BVbklpU2daT1lNbzhCVmRuZXBPaEFkQ3FDMS1sZUR5RjFXV0VGeFRQY0xBVG84YmdpejNBd0plaFEzMNIBqgFBVV95cUxONDBNTFFZYnJJNUdNYmJ1bnl3TEg2VFFpaUx5M3ZHcFcteDlXeDNnXzVnZ0lXYU9QOW1Pa0tQSk5qd0k5Zk1sZkZWYmlDU3VLOUtKVWdnUEMxbVVlRndNT0RicU03dEdaM2VpRENMQnRjR1hrdEpaeFF6T2NpZU42aVE0SU5Ub2Fxa1k2dE5Gd3BtX29sNUl1VUhFZFUtRjdMZmQtNDNuU0p4dw?oc=5",
-      "pub_ts": 1791010800.0
-    },
-    {
-      "title": "'We're chasing a moving target,' water plant cybersecurity experts say",
-      "source": "Spectrum News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEczNzNJc1J2ZXR4djV6cXZCOUlKLXhZMl84ZmVXdUx1Nkt5algyZkNibW5LQ1BSLU9uM1ozeFA5bGJuZjlNSS15UnZBWC15NkNNdzdwandfSTBDTkpicy10SF9EenRMR08xR1U5czVQSUtQUlV5aEZERVZJOEMtTlQ4OVRCVFQ4RnJYaFVZeHlGVjBWZFotYkFMSGtMUS12TVBmNTg3dUx3VXBCRlJVd3NUTmt5Y3F1c0pMWWJFcm9MQzJ3b2VUMQ?oc=5",
-      "pub_ts": 1790578800.0
-    },
     {
       "title": "Cyber Threats Put Water Systems at Risk",
       "source": "The Pew Charitable Trusts",
@@ -26,28 +8,46 @@
       "pub_ts": 1790060400.0
     },
     {
-      "title": "Colorado water utilities face foreign cyberattacks targeting pumps, alarms and remote access",
-      "source": "Industrial Cyber",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSFIyUnB0bkE0N25PM040dWVha05maEFsOHM5QlN5VU5wNl9NaUJyRWJyd1pGUmhpX0h0SVZSTGRzV2JKclJHNmZaRFR6UzFxZWJ2dEN3ak9MOXpNSzVvMmFtdmx6YVJfWDFaS056aU1CRmc0dVNCT3BGeVU3NFlXWTVLbTFiMUR0aEhNbzg1azVMMlRnRV8xTDYwb1cwZ2xLZ1doLXpJTXpJZ3I1amJfUkp4YndmZ2Q3RW5PUHBLYWRaOGZpRFhzWkZ6bEI5dEE3ZTc0TjBWMVlleHpxS2ZHYWhNQXhwdnQzQmc?oc=5",
-      "pub_ts": 1790060400.0
+      "title": "Foreign hackers breach two more US water utilities, threaten safety of Colorado residents",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
+      "pub_ts": 1789714800.0
     },
     {
-      "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
-      "source": "Denver7",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSlNGenFZYXJlWjFFNFVHenpSMDJkYUcxMVNBbDVRTUJHemZXV1F6N3I0QThVVWJmTTcwVUJkblpqLXhGaDJwNTlwOTUxUDAycFZMVHRKTnVmaGJWRVNYQy01SUNWeDRQOE10OU1VRGRQME1meVBncmVCa1o1cTNkSWZ5amw3dFJ4MTZ0UWRyX0lYSXBkb2t4LW82VktIaGQ4aTE3OUFSYUswYzRGb3Y3RW9BdGs4YjFMek5UYVQ0Vm9seWoz?oc=5",
-      "pub_ts": 1790060400.0
+      "title": "Government admits water system cyberattacks were worse than first reported",
+      "source": "NBC Chicago",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
+      "pub_ts": 1787727600.0
     },
     {
-      "title": "Foreign hackers breached two Colorado water utilities last month, Gov. Polis\u2019 office says",
-      "source": "KKCO 11 News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd1F2RU9ZQVlDNDNsSk5NTG5DN2VJNjN3Y2xDSmkxS0kycktob0xab0lHUFo3SkhSRjJRMDU2VWxQbm5PUmJwMGJMV0xHQkF6clVkSlZIb3AxdjZ6MTRkek9BMXFGZ3VJUzQ1OGZHNkJhanhFWUtweTZtem1qcW0taXFBUlh1YUJEYm53aWV6cW5JRjhPeWNoUWp3bEU5Ukg1S3BJT0JsVkgzUXY3N2laY0R2NDhheTZUYldNd2ZJbWZrSTDSAdcBQVVfeXFMTUtza0dlcXdDSURsY2JlQm1SNnlsNjNrbjg1ODhaVkpQUEpCcUpyYmJ3ZGZURURTdkpIbjdYbkFqTWVidEpPd3ZQZ3pSY3EzWTNXcklKNzNzV2g1bTR3UHhmZ3VCd1pTdG9ycnlZRS14eHdULWQzWEg4SXpQZFRQZmU4bHBSTldVWERHcm1xdDJScGp6eGV3bVI1bHZRaE5ncGd0a05BU3ZLdkktdzQ4dEZSTXA2RURUQVZDYWlnZldNU0lmWGZVbFVHZGF4VGltVW5CcWpUQVk?oc=5",
-      "pub_ts": 1790060400.0
+      "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
+      "pub_ts": 1787727600.0
     },
     {
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "source": "SecurityWeek",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzNvR21kbVktSWFvckw0ZXpBWlpDTWtYT01WcUNpVFJldFdoWHJlUlZJd3dYaGJVZHUwY2JDeDY1S1VGdkVWNUJ3RVRzVU5oekltQTV3eUpPY0JUS18zQnVneHJtd1kzQUc2WmF6VnRIdC1IUFBvbk1idE5UZlpVeXRTWF9TRmYyTDJ1LVczYklYQXg4N3EtLTU0MNIBoAFBVV95cUxQeTdxcVZmdEhRWGd1Z2o5SjZHLTZIc2tzTVhxOXJsaHJUQklMbk1NQVJ1b0QxTWM3S3BhNlh0NnkzTVVBNGUwY29BMk1vbnF3SHRMdHFjLTROTWxTdUw3WFR0MFc0cTFGVEZQNzRkd2lhYl9YWjlNZEhMaGk3allSMHVfMC1Zck05YU1oUkVCRzNFYkhNX2tBSWtaQ294OTlH?oc=5",
-      "pub_ts": 1789974000.0
+      "title": "What we know so far about the hacking campaign against US water systems",
+      "source": "Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmoyOHNOSEMyM2hmVUNkazFrNUhzWGx5LUFDUEF1NVlTT1RWeGI1QldUamFtLWc2b3JncGl5Z0g3VXEtNWg3Wi14TlptaGpNc203RXZncHhpUS13VVFqYUtuTVVIQVNFRlVXdUdGNXhyUXRQMlFVRDVTdk1XRXFDMzJDQ1RwcG9KTGhXemhaY0NIRWtPUFVYWm9SVmJ2UU5Qc2lqSWZVSXVqN2VabDN2S3pGWDJFMlJRbnc?oc=5",
+      "pub_ts": 1787209200.0
+    },
+    {
+      "title": "UChicago Cybersecurity Expert on Water System Hacks, Critical Infrastructure Concerns",
+      "source": "WTTW News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX19lbjJNTWFLdkM1MW5oT1R0N0Y3dkVxTEZoMW9tS1djVjRDdTRkclM2ZmhhNmRhdWpvWkU1R2NGY2s3VUpDTkRPNDFtdmdyXzY4YVJBb0E2LXlYYUZJa0ZiLXBNODVKOVlOWDl6TXl4MFRmY2dIM3pCVlNXV3p1c0prQ1JINVExQ0YwV25yT1Vyc1cxU2tIa195WER2Y19aVEJkeW9CdExSeHJTcW0yOTR4bmw?oc=5",
+      "pub_ts": 1786604400.0
+    },
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "source": "NPR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T0pJaGV0T3VBcnFsRTVyRDRHSlgwRzhwRnJpdEJUZDNfaUNQbG0xa01NNERGYmRSam5RMWY2ZTVSaTktUGdTekdzdFkyOG5mRFdqdmZ1dWlFdmw2Q2ZHVFZ0cUFORDI3SXk0SUs3XzdFSnlodU1QTHBscw?oc=5",
+      "pub_ts": 1786518000.0
+    },
+    {
+      "title": "Why hackers are targeting America\u2019s water systems and what ASU is doing about it",
+      "source": "ASU News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFdYLXYyaTFvM0RWaFJLQ2pYd2lyUDNtX29WUERnbnVqZjhmd2cySXkxNzIwZVh5MkJWQVg4RWlaZkJ2RFA4MUJmOG15UmtEYWNPQlg0OUN2eGVUTlhGRXJ4Zy1FZTQ1YmxVclZhNGdMdk90Yk1pTkNjd2VwMnBJOGVaNi1QMDJ1YjlSVEVaMmRIWTRtRHZHYzlMak1JMGU4eWNMUGhmZEVlWmhpQmpSdTZ6ZGw2Y2tTay1TcQ?oc=5",
+      "pub_ts": 1786431600.0
     }
   ]
 }
