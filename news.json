@@ -1,18 +1,6 @@
 {
-  "generated_at": 1793752527.66413,
+  "generated_at": 1793793826.5865157,
   "articles": [
-    {
-      "title": "Low-skill pro-Russian hackers sabotage Western plants, water utilities \u2014 Bloomberg",
-      "source": "The New Voice of Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZtQVRuWlg1aHUtU2dJb0VvaWU4Zk1pRF9IY2lvX01FVjlsd3hNVV81U1VORzloU1BYbzhzYjBXc2pvU3dNREQwYVZ4d0VEUFYzODNubG1lUkYtYW9QaFVmYmhIRUIxb2xFS2xzZnBRV0h1M2t3anRaOTlFNE1uSGNaMEhCeDhPdjk0UU1Zb9IBiAFBVV95cUxNQXZ3NXE1OVQzUmp0QW9va2E0aU5HTXVNSXNyYVQtT0Z0U2RYZlBVX0hIaER5dHJxU29XcTRtQ3JVRzhRVy1lNF9Ld0xDVHkxV1psSWdKS2d4X1dBTDN1NjUwaVo4aW1nOC02YjdyQURhOVBIVGtoeTQyVG5XYjE3bE9XOHRBbWF1?oc=5",
-      "pub_ts": 1793605800.0
-    },
-    {
-      "title": "2 New Jersey municipal water systems targeted in cyberattacks",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2fSAacBQVVfeXFMUE1reGhLS3gtazQ0QmdvUHdreWxnZktXLTlvbE5TVzR6OEpzUXJzN2dVUzdnTXpNRHdaUGZGX0F4WWp4Qm05RS0zNUxwejJXa1VhTnh5OVBBQTN2UGRKWmowMm84bmhxSW0tdVVQVUlkd1lPX2tsakFvWDdjWmJnX3BxQlp2RHp3YjJrUFY0QW8tN3F3cTZwM3FWMXAxY2ZHc3l2T2lZbVE?oc=5",
-      "pub_ts": 1793597565.0
-    },
     {
       "title": "Resilience reports energy and utilities sector faces rising cyber exposure from ransomware, vulnerable OT systems",
       "source": "Industrial Cyber",
@@ -48,6 +36,18 @@
       "source": "Fox News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm9RamhybVpJbHk5dFFMUVF4aDZka1JDNG54LUstb1NnY2FoZ2RRWHNDdVNZUEtIbjAxUXpXVFEtVkxZMllxS0dTR1QtWHFjbHltdWtSNGlGWDRPSW1Sc0JyQVNFdlBzd1BVbklpU2daT1lNbzhCVmRuZXBPaEFkQ3FDMS1sZUR5RjFXV0VGeFRQY0xBVG84YmdpejNBd0plaFEzMNIBqgFBVV95cUxONDBNTFFZYnJJNUdNYmJ1bnl3TEg2VFFpaUx5M3ZHcFcteDlXeDNnXzVnZ0lXYU9QOW1Pa0tQSk5qd0k5Zk1sZkZWYmlDU3VLOUtKVWdnUEMxbVVlRndNT0RicU03dEdaM2VpRENMQnRjR1hrdEpaeFF6T2NpZU42aVE0SU5Ub2Fxa1k2dE5Gd3BtX29sNUl1VUhFZFUtRjdMZmQtNDNuU0p4dw?oc=5",
       "pub_ts": 1791010800.0
+    },
+    {
+      "title": "'We're chasing a moving target,' water plant cybersecurity experts say",
+      "source": "Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEczNzNJc1J2ZXR4djV6cXZCOUlKLXhZMl84ZmVXdUx1Nkt5algyZkNibW5LQ1BSLU9uM1ozeFA5bGJuZjlNSS15UnZBWC15NkNNdzdwandfSTBDTkpicy10SF9EenRMR08xR1U5czVQSUtQUlV5aEZERVZJOEMtTlQ4OVRCVFQ4RnJYaFVZeHlGVjBWZFotYkFMSGtMUS12TVBmNTg3dUx3VXBCRlJVd3NUTmt5Y3F1c0pMWWJFcm9MQzJ3b2VUMQ?oc=5",
+      "pub_ts": 1790578800.0
+    },
+    {
+      "title": "100+ US Water Plants Hacked via Exposed PLCs [2026]",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EczNqZ1R4OGRkU04wc3NwMVZlS0JJNXAtU1IxV2xwN3lpZVBNX1BLMVp4UzZOUW5hal94MlJQcHlPenV0TUJCZFowZUVFQ0VUbm95amkxTmVjVjhVdjA0RGZHX3F0bzA?oc=5",
+      "pub_ts": 1790072950.0
     }
   ]
 }
