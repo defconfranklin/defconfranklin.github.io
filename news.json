@@ -1,12 +1,6 @@
 {
-  "generated_at": 1794467126.1323562,
+  "generated_at": 1794502005.0672228,
   "articles": [
-    {
-      "title": "At least 12 states face cyberattacks on their water systems, sources say",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
-      "pub_ts": 1794353331.0
-    },
     {
       "title": "Thai Airways left reeling after major data breach over three years and reports of a lavatory without water",
       "source": "Thai Examiner",
@@ -20,22 +14,10 @@
       "pub_ts": 1794260508.0
     },
     {
-      "title": "Nitrate levels breach safe drinking-water limit at 358 groundwater sites across Andhra Pradesh",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNa0lqNGdTT2htUDJ3RVZ5NFh3cjNmQmJIR1VqZXVrdFcxNV9WNHprRk9waVhuZVlsWUs2aEtuZk1rdnlpTEVnc3RHWmN6VU5OdVVsdlJJSTNSVnFQRGNGMm5FMmo2S2ZSNjdUOVhQY1BUdjM1SGRCdFQ0Y0w2ZGlReWFLazhsY081cXh0eXVGY280cUxSc09ObnZFLThRcWJWU2o1WXBjNlctcmRoNklWRkt5QmZyZDdyTldueWpzV1hEdEpXM2dGWUhxeXlrSDBTYlZSck10RnpUZWtyMEZZSkI3NXZYTDVwU0V3MVl1YnpKSThheG9JR1JCTkNENUNVWnfSAYcCQVVfeXFMTWdWTHY5Nm5GSno4UkFiU01Jd09IRTB0XzB4UG5TSVdlWV94NnY4b0dpdld5eTZ3WlZ1dXZkUE1tRV9JMGhyV2ZtYUsxY1dwbEd6TXZ3N3ZDd3I1UnZZUElmZnBtSTgwT0t0cXZiUUc0YkRoem85eWdDTGxLdVhwMl9Eb3FXNEJQM1AwZ2ZyaTNkZ0thU25BdkY5NTFkNVJiM21id29YeFdzb2RaSEc2TXRsWmZmWTc3N0xrZmlqN1VoajJCVUJPNzBIXzBWSElKYml5bzJBMmhweXpxLXltUFdvYXNqRl9qcEU1ZEdLVVhTbWhfMTNWM09pZTh5U2JNZ0JQcDVITWM?oc=5",
-      "pub_ts": 1794251640.0
-    },
-    {
       "title": "Cyber Threats Put Water Systems at Risk",
       "source": "The Pew Charitable Trusts",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjZiaVFkRWxsZUpQYUJFdnZWd09KcUF5bFBuejllUjVqel9Sb2dER1k0UjJlb1hfa3BYYmE2NUVNamlSWUtRbDZ0cFFQRFczcHBwX3M4akUtRUY2LVExLTBNcFdWdEg3dlZ5M09kYUU4OHZqN09mbDV1VW1hZ3h1TUdlX0xUOFV4aXpxMXpyTDUxVXYwVnNibFp5TXdtUWZiUGRQaVh4UQ?oc=5",
       "pub_ts": 1790060400.0
-    },
-    {
-      "title": "Foreign hackers breach two more US water utilities, threaten safety of Colorado residents",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdDRTT1VBUG5sTmRuanNwOFFfRHlKZjBubzJrbi1yTk5BbmlyQUtXV1lTd2ZrcGE2b2VzMTRzaXVLNXpJWUJDX1ZkNGJwSDlralQtY0R5VDZkcHV5cUFiMzk2VGl2U2o1U0RzS1B0YjdQanQzZE04TFFqLUxOUTVUYjhKNWIzZ3lvV0JSS0FEUDZtY2xHNVFTd1d0akZhTEVDM1VSY25oSEMzaWxCWlRZX05sV1FEUEtBS3fSAb8BQVVfeXFMTVdNNWl3eWV4NnNBTEtKRGRKN3pDZ1Uzdi1CZHNCcE5Lb0ZKRVVWNnQxNm5DeXg5WE9WWEE4WDhhR0dzV09mN3luXzBGYWxaVWU0OGFMNXRtNWpvR3Rxa2REa3c1Tm1zTHlFSExxSXQ0Smp4ZG1kOFg0SDlncUNTeGxJbnJlMUNzakdzOHpWRzFxblBlanYwaVd1MnR1UlJJcmRnOGVOQVdqSGxEQ1V3Y25PbFZnSFhsV2ZrRTNVVzA?oc=5",
-      "pub_ts": 1789714800.0
     },
     {
       "title": "Government admits water system cyberattacks were worse than first reported",
@@ -44,10 +26,28 @@
       "pub_ts": 1787727600.0
     },
     {
-      "title": "What we know about the hacking campaign against US water systems",
-      "source": "Facilities Dive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE1VNG5Ubm51ckk2cmxfbG5rVElDbW56YjdZTk9FNUNuT3dRMTRzME9YVFVjV1hmRHVZZk1mdktqOEtza29KZzNFUVRDVlB5M0Q5WjZUVjA1TU94SlV2cTE3UUsyNkxfN3dZdHBja1draXZQbm50ODdPcHBLVndxLVBOR0pLTGZXR21ULTJ0ei1Vci1aVHVGa1U3U2VyRW9rRWZMb2Njbk5fa0d6OEpULVUxdS1ZZw?oc=5",
-      "pub_ts": 1787641200.0
+      "title": "EXCLUSIVE: Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY3VTcnZQcEJYNnZOWFBwd1Vwam15ZFltRThzM21BYVpZWjZWbDg2X05jdG9TQkRNR1hmZjQ4WFFXdzVmQ3FscGkwal9SdF9SVUNBTl9YNUtieW1acjg3WFBzOGJybzcwRUk1S0VxNGlqQk1vaG4yU2hHMmF3dnM0MkVSR2xNN1Rpc0VpMzdpcWFRM1pkWWowWVN3T2xBR3cyTGhhelRmOVJSeVl6WXBlMGNuaFA0cVpGcC1N?oc=5",
+      "pub_ts": 1787727600.0
+    },
+    {
+      "title": "What we know so far about the hacking campaign against US water systems",
+      "source": "Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmoyOHNOSEMyM2hmVUNkazFrNUhzWGx5LUFDUEF1NVlTT1RWeGI1QldUamFtLWc2b3JncGl5Z0g3VXEtNWg3Wi14TlptaGpNc203RXZncHhpUS13VVFqYUtuTVVIQVNFRlVXdUdGNXhyUXRQMlFVRDVTdk1XRXFDMzJDQ1RwcG9KTGhXemhaY0NIRWtPUFVYWm9SVmJ2UU5Qc2lqSWZVSXVqN2VabDN2S3pGWDJFMlJRbnc?oc=5",
+      "pub_ts": 1787209200.0
+    },
+    {
+      "title": "Mapping Iranian Cyberattacks on U.S. Water Systems",
+      "source": "CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0lMaVFKdDVEOWt1Zlp1NVRONmtYX19GS1pEOXZDQ2s2N3JtVUI2a3NJYjZlNHJNRkNrZG5seXIwT2RYenhnRU1NVTdFYmNOVk5vd29iRURQV3dsMUM5RXczaEg4LVo2QjBIQjZqSVVtZDFGWm9kdWRlYzN3aEhUcg?oc=5",
+      "pub_ts": 1787036400.0
+    },
+    {
+      "title": "UChicago Cybersecurity Expert on Water System Hacks, Critical Infrastructure Concerns",
+      "source": "WTTW News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX19lbjJNTWFLdkM1MW5oT1R0N0Y3dkVxTEZoMW9tS1djVjRDdTRkclM2ZmhhNmRhdWpvWkU1R2NGY2s3VUpDTkRPNDFtdmdyXzY4YVJBb0E2LXlYYUZJa0ZiLXBNODVKOVlOWDl6TXl4MFRmY2dIM3pCVlNXV3p1c0prQ1JINVExQ0YwV25yT1Vyc1cxU2tIa195WER2Y19aVEJkeW9CdExSeHJTcW0yOTR4bmw?oc=5",
+      "pub_ts": 1786604400.0
     }
   ]
 }
