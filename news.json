@@ -1,17 +1,11 @@
 {
-  "generated_at": 1795053073.0160167,
+  "generated_at": 1795093094.9085782,
   "articles": [
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
       "source": "ABC News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOVplRHF2Q2JkdmtpZHpTbUZFMlhPXzYyLURsVW9mbE03d0IxcThQNWl3Nkh0VHoxSDMtaDkxdmRpRlA5XzhjbG1WSnJjaG9Sbi01YjVhVFpueUY4Wnk1TFlIWGxaNFpOak5hOUdDWDlHOWF0U19WOXhtUlhRZU41UThaLTdTX3U2VVhhNXpRMzFrUDRwQnhTang5bUZxRktad2c?oc=5",
       "pub_ts": 1794942543.0
-    },
-    {
-      "title": "At least 12 states face cyberattacks on their water systems, sources say",
-      "source": "ABC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtBaEpyZlBiQmtRT25NRWJ0RnNOSmdNVDN0V2hSdG9nSFV5OUhfUzh4ZnJNU3F6eXZhUy1EM2ZTU2pmYlpHUGxYeEhhTWFtSElTMTFtamlLZGFyeEJJVk41V1pLUEQtQXZpNGtoUGprX3FNMkl3S3FwbUthVkVjOXJ6eVVpM3hDckpnclZJeXpiamdaMXfSAZsBQVVfeXFMT01wLUJCeTF5MXpBRWh1UXg5SFlhUDdRYmZYVFVkcjI5bVltdEh5TlkwV1FMLV91REt5djJSeUxNb3A4ZXJuVWhrZGNlSWxRTmpQbHFldm1TYk41dGdvT0FuQTBHbE96bENKaDRWWWc1QUxEV0xlM0ZQT05aakZ1MnNIbG9feTZnUUp3SVJPVVdNaWJnZVNDZlVtUEE?oc=5",
-      "pub_ts": 1794931126.0
     },
     {
       "title": "Research details how Iranian cyber groups coordinate attacks",
@@ -32,10 +26,10 @@
       "pub_ts": 1787727600.0
     },
     {
-      "title": "What we know so far about the hacking campaign against US water systems",
-      "source": "Cybersecurity Dive",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmoyOHNOSEMyM2hmVUNkazFrNUhzWGx5LUFDUEF1NVlTT1RWeGI1QldUamFtLWc2b3JncGl5Z0g3VXEtNWg3Wi14TlptaGpNc203RXZncHhpUS13VVFqYUtuTVVIQVNFRlVXdUdGNXhyUXRQMlFVRDVTdk1XRXFDMzJDQ1RwcG9KTGhXemhaY0NIRWtPUFVYWm9SVmJ2UU5Qc2lqSWZVSXVqN2VabDN2S3pGWDJFMlJRbnc?oc=5",
-      "pub_ts": 1787209200.0
+      "title": "What we know about the hacking campaign against US water systems",
+      "source": "Facilities Dive",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE1VNG5Ubm51ckk2cmxfbG5rVElDbW56YjdZTk9FNUNuT3dRMTRzME9YVFVjV1hmRHVZZk1mdktqOEtza29KZzNFUVRDVlB5M0Q5WjZUVjA1TU94SlV2cTE3UUsyNkxfN3dZdHBja1draXZQbm50ODdPcHBLVndxLVBOR0pLTGZXR21ULTJ0ei1Vci1aVHVGa1U3U2VyRW9rRWZMb2Njbk5fa0d6OEpULVUxdS1ZZw?oc=5",
+      "pub_ts": 1787641200.0
     },
     {
       "title": "Mapping Iranian Cyberattacks on U.S. Water Systems",
@@ -48,6 +42,12 @@
       "source": "WTTW News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX19lbjJNTWFLdkM1MW5oT1R0N0Y3dkVxTEZoMW9tS1djVjRDdTRkclM2ZmhhNmRhdWpvWkU1R2NGY2s3VUpDTkRPNDFtdmdyXzY4YVJBb0E2LXlYYUZJa0ZiLXBNODVKOVlOWDl6TXl4MFRmY2dIM3pCVlNXV3p1c0prQ1JINVExQ0YwV25yT1Vyc1cxU2tIa195WER2Y19aVEJkeW9CdExSeHJTcW0yOTR4bmw?oc=5",
       "pub_ts": 1786604400.0
+    },
+    {
+      "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
+      "source": "NPR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T0pJaGV0T3VBcnFsRTVyRDRHSlgwRzhwRnJpdEJUZDNfaUNQbG0xa01NNERGYmRSam5RMWY2ZTVSaTktUGdTekdzdFkyOG5mRFdqdmZ1dWlFdmw2Q2ZHVFZ0cUFORDI3SXk0SUs3XzdFSnlodU1QTHBscw?oc=5",
+      "pub_ts": 1786518000.0
     }
   ]
 }
