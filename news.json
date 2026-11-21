@@ -1,17 +1,11 @@
 {
-  "generated_at": 1795193747.0455494,
+  "generated_at": 1795224498.785162,
   "articles": [
     {
       "title": "First Flights, Then Banks: Is the U.S. Under a Coordinated Cyberattack?",
       "source": "U.S. News & World Report",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWJieGNoakpmeUVqbkNoRUdWeHRTR0xOY3paQ0hEVE1JcmNXcjgtY0I5bHZCbWtQOGkyRjNLU08xbXlrYVVKTDJIXzBFS2RpMmVnYVV5VU1KbGp5dGtyT0tLQUhnS0w5VzVMWlJfeEw5QTJlbFh6OVBzSUxnRU5qV1o0NzRSTDRJUG9Sc0xsOGNSUjQ1YnE0V1hweGRVbHJxdmZYUUZROUdvRU5CSEJ6UWVldlowcnFrSk9WamNXVlZISHVfMU02T1Jrck5mTXRoNnVsMXlVTQ?oc=5",
       "pub_ts": 1795035783.0
-    },
-    {
-      "title": "Research details how Iranian cyber groups coordinate attacks",
-      "source": "WaterWorld",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVBVFlHOHMtdEdoOGNfVEJjRjM2aGpmeFN4RXdGT2xXOW9GWlNvUFFpNXRYNFdoM3NLUEFXNlY4MjZTN0NTRVJoemZvWUM5VHRLTUtWVzR0Y1RNbWFLQy1FeG9zTUhsSEgyRnpZTVpKQTdlVGMtT2ZYM0dhX0RZOW5QTEFybWRmV1JSSTQtM01XM0U4T3YzMjhWakxkWTZPYUJkZG9feGdGTThNb1M5Q2NxUlZNZVpINDhEN1NCdzFSWEc5?oc=5",
-      "pub_ts": 1794928423.0
     },
     {
       "title": "Cyber Threats Put Water Systems at Risk",
@@ -21,15 +15,15 @@
     },
     {
       "title": "Government admits water system cyberattacks were worse than first reported",
-      "source": "NBC 5 Chicago",
+      "source": "NBC Chicago",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkFDSU5RZVhleHFYd0FTbnVUdWFJaDFJWlo4aHVVZUY0TThTaUk4RFpfT0otcE9xRjBXb2pYeVo2OWZ6aVhtbTBtb1lDeGNYZlJsblAzU2Y5X0MwNWNlZzRyMXJoOXVxWndJMndzY0FzSExfSEl4YkpyX3R2X0tuZGhLUy1XcGNHc01RbmxNZkZwMXMxd3N1VDVtemd0X2xUUXhmX1BCWm9oMEZuYjQwYmJnZHBIODExMTg0a08tNGdGOEnSAcsBQVVfeXFMT2dKUzRRWW5uTnVMd3ZEQmtaOXUtbFBzTmZmRGdNWmJaU0dLUkRfR1VJSmMzazQyLUtVSHNFZ1lKYnhEMUFva0w3VC1md1cwWFRDX0VfeDFEU1Rub3VEX2Z6d210akpJZkg5aFJtUWdqR2hxXy1xZ1A4NUVVUEVmRnFkcXBIVlVralRwVWszZkdXWkEyck1iampGaUFWWmptSmxWLWs4QWdpRmFDbWEzdWFJcUZEdGlEeHBseXNuOFh1UmxyWlZIOGRvd2M?oc=5",
       "pub_ts": 1787727600.0
     },
     {
-      "title": "What we know about the hacking campaign against US water systems",
-      "source": "Facilities Dive",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE1VNG5Ubm51ckk2cmxfbG5rVElDbW56YjdZTk9FNUNuT3dRMTRzME9YVFVjV1hmRHVZZk1mdktqOEtza29KZzNFUVRDVlB5M0Q5WjZUVjA1TU94SlV2cTE3UUsyNkxfN3dZdHBja1draXZQbm50ODdPcHBLVndxLVBOR0pLTGZXR21ULTJ0ei1Vci1aVHVGa1U3U2VyRW9rRWZMb2Njbk5fa0d6OEpULVUxdS1ZZw?oc=5",
-      "pub_ts": 1787641200.0
+      "title": "What we know so far about the hacking campaign against US water systems",
+      "source": "Cybersecurity Dive",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWmoyOHNOSEMyM2hmVUNkazFrNUhzWGx5LUFDUEF1NVlTT1RWeGI1QldUamFtLWc2b3JncGl5Z0g3VXEtNWg3Wi14TlptaGpNc203RXZncHhpUS13VVFqYUtuTVVIQVNFRlVXdUdGNXhyUXRQMlFVRDVTdk1XRXFDMzJDQ1RwcG9KTGhXemhaY0NIRWtPUFVYWm9SVmJ2UU5Qc2lqSWZVSXVqN2VabDN2S3pGWDJFMlJRbnc?oc=5",
+      "pub_ts": 1787209200.0
     },
     {
       "title": "Mapping Iranian Cyberattacks on U.S. Water Systems",
@@ -47,6 +41,12 @@
       "title": "Are hacks of U.S. water facilities a new front in the Iran war?",
       "source": "NPR",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3T0pJaGV0T3VBcnFsRTVyRDRHSlgwRzhwRnJpdEJUZDNfaUNQbG0xa01NNERGYmRSam5RMWY2ZTVSaTktUGdTekdzdFkyOG5mRFdqdmZ1dWlFdmw2Q2ZHVFZ0cUFORDI3SXk0SUs3XzdFSnlodU1QTHBscw?oc=5",
+      "pub_ts": 1786518000.0
+    },
+    {
+      "title": "Why hackers targeting America\u2019s water systems have the upper hand",
+      "source": "Bulletin of the Atomic Scientists",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXJJckhrNl8wMTYwVHM1elJBaDNfLXJqUUZnZUxGRFFtSjhKemV4MGxUMkpzRWlTY1UtUzR5cXBUQ3ZqeUxwQUhfcHFuX3I2cXdndlZDSjEwWXBVdndrZXdRLTdFOFNpRkdsVFhpTmhkNW5wRTU0UFhvQUQxY1BhS1M0UDRYSkxFMGV5bnhoU1NvQ3pEVkl2UFF3SFJUUQ?oc=5",
       "pub_ts": 1786518000.0
     }
   ]
