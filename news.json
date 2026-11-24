@@ -1,10 +1,16 @@
 {
-  "generated_at": 1795495477.319849,
+  "generated_at": 1795548526.8622901,
   "articles": [
+    {
+      "title": "How to Plan for an A.I. Emergency, or Any Calamity",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9URXYwNlFGREJTQ1I4eTZ5U3U3NXByVFgxNE41UmZmVkZLVmtmMU1VWlRDeFdPYmxPQXJzenRJZHYteUp3Vkd3cUtzWVh2TXJROTlfckhxQ1ZhYmwwNXVRSDltZE53WHVKRk5mc0o3T0wyeWZP?oc=5",
+      "pub_ts": 1795420800.0
+    },
     {
       "title": "Water supply hack warning: FBI says threats are rising",
       "source": "NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDB2RnY5Sy1RdVo2ZVpMMENyX1lieDJkNnNXZHE4a3ZWaHp0YUdjYkkwVVluOFpWTUgzQlcyMU1DVHZSeTdBRlJCdEdSdE51LVQ3WURLd254ckxiRi1OckhOOEZSR0hyZk5FMG1FdTVrQjl3dWVnWHQyY1IzVkRJa09sTVk4NHZTeEF2bA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDB2RnY5Sy1RdVo2ZVpMMENyX1lieDJkNnNXZHE4a3ZWaHp0YUdjYkkwVVluOFpWTUgzQlcyMU1DVHZSeTdBRlJCdEdSdE51LVQ3WURLd254ckxiRi1OckhOOEZSR0hyZk5FMG1FdTVrQjl3dWVnWHQyY1IzVkRJa09sTVk4NHZTeEF2bNIBkgFBVV95cUxQbTlnRjJpVmktZGxTc2xpSllwUXYwVXhQejg2SHRJN2NFYWlpS3FHTDdZMEJhampaaWw1Z25DT3BPTGVDaDdRY285bXhLaElDVW5TRU9RalgzdmdoWVJHV3pCZGdoNmlHdzQwMks3bWF3bUR2SGpGNGNQaUoyd0pYc0h4MHJDeEdvMDhuX2txSjV5UQ?oc=5",
       "pub_ts": 1795305742.0
     },
     {
@@ -38,16 +44,10 @@
       "pub_ts": 1791183600.0
     },
     {
-      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm9RamhybVpJbHk5dFFMUVF4aDZka1JDNG54LUstb1NnY2FoZ2RRWHNDdVNZUEtIbjAxUXpXVFEtVkxZMllxS0dTR1QtWHFjbHltdWtSNGlGWDRPSW1Sc0JyQVNFdlBzd1BVbklpU2daT1lNbzhCVmRuZXBPaEFkQ3FDMS1sZUR5RjFXV0VGeFRQY0xBVG84YmdpejNBd0plaFEzMNIBqgFBVV95cUxONDBNTFFZYnJJNUdNYmJ1bnl3TEg2VFFpaUx5M3ZHcFcteDlXeDNnXzVnZ0lXYU9QOW1Pa0tQSk5qd0k5Zk1sZkZWYmlDU3VLOUtKVWdnUEMxbVVlRndNT0RicU03dEdaM2VpRENMQnRjR1hrdEpaeFF6T2NpZU42aVE0SU5Ub2Fxa1k2dE5Gd3BtX29sNUl1VUhFZFUtRjdMZmQtNDNuU0p4dw?oc=5",
-      "pub_ts": 1791010800.0
-    },
-    {
-      "title": "Cyber Threats Put Water Systems at Risk",
-      "source": "The Pew Charitable Trusts",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjZiaVFkRWxsZUpQYUJFdnZWd09KcUF5bFBuejllUjVqel9Sb2dER1k0UjJlb1hfa3BYYmE2NUVNamlSWUtRbDZ0cFFQRFczcHBwX3M4akUtRUY2LVExLTBNcFdWdEg3dlZ5M09kYUU4OHZqN09mbDV1VW1hZ3h1TUdlX0xUOFV4aXpxMXpyTDUxVXYwVnNibFp5TXdtUWZiUGRQaVh4UQ?oc=5",
-      "pub_ts": 1790060400.0
+      "title": "'We're chasing a moving target,' water plant cybersecurity experts say",
+      "source": "Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEczNzNJc1J2ZXR4djV6cXZCOUlKLXhZMl84ZmVXdUx1Nkt5algyZkNibW5LQ1BSLU9uM1ozeFA5bGJuZjlNSS15UnZBWC15NkNNdzdwandfSTBDTkpicy10SF9EenRMR08xR1U5czVQSUtQUlV5aEZERVZJOEMtTlQ4OVRCVFQ4RnJYaFVZeHlGVjBWZFotYkFMSGtMUS12TVBmNTg3dUx3VXBCRlJVd3NUTmt5Y3F1c0pMWWJFcm9MQzJ3b2VUMQ?oc=5",
+      "pub_ts": 1790578800.0
     }
   ]
 }
