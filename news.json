@@ -1,5 +1,5 @@
 {
-  "generated_at": 1795652206.7704003,
+  "generated_at": 1795681487.4876585,
   "articles": [
     {
       "title": "2 New Jersey municipal water systems targeted in cyberattacks",
@@ -8,16 +8,28 @@
       "pub_ts": 1795609089.0
     },
     {
-      "title": "How to Plan for an A.I. Emergency, or Any Calamity",
-      "source": "The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9URXYwNlFGREJTQ1I4eTZ5U3U3NXByVFgxNE41UmZmVkZLVmtmMU1VWlRDeFdPYmxPQXJzenRJZHYteUp3Vkd3cUtzWVh2TXJROTlfckhxQ1ZhYmwwNXVRSDltZE53WHVKRk5mc0o3T0wyeWZP?oc=5",
-      "pub_ts": 1795420800.0
+      "title": "Water supply hack warning: FBI says threats are rising",
+      "source": "The Hill",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbjVXclhVbUVPbjJjZXgxelJOLTg4WFU4LTdlOTBQUkZGU3ZGUDg5enVrMUREdUNfbmxWdl9qTGNYdEg2VnU3UzZDdVB0X3JoTXZOZ0NJWnJIMWxNYWdsSGdMamY0ekYyWFNCaXZjVXJ6TVhQblVzSDcza0daNW9fZ2xNOXdNcXBUNU8taWoyeEVHOUVzV1ZqbzVXR2kwd9IBowFBVV95cUxNUEswOWMzd19LTjJBR3hnY2FFamUyVUlMUENCUGpiYWthTnhsWnp2em45RGpwTk5sR294QnEyTVVtU01BZWRJUnpXMDRfSER0bkNtcnBOYWZsQmFkX3Mxc1NvWG5KR2U4Y3FWNWM5TWZIMkxmUndaVUhjRnQ3a2tRMWZnVjVyeE52bnhBZFN6dTJQV2ZXeEx6NmpweXNEd0hVT2dZ?oc=5",
+      "pub_ts": 1795466340.0
     },
     {
-      "title": "Water supply hack warning: FBI says threats are rising",
-      "source": "NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZDB2RnY5Sy1RdVo2ZVpMMENyX1lieDJkNnNXZHE4a3ZWaHp0YUdjYkkwVVluOFpWTUgzQlcyMU1DVHZSeTdBRlJCdEdSdE51LVQ3WURLd254ckxiRi1OckhOOEZSR0hyZk5FMG1FdTVrQjl3dWVnWHQyY1IzVkRJa09sTVk4NHZTeEF2bNIBkgFBVV95cUxQbTlnRjJpVmktZGxTc2xpSllwUXYwVXhQejg2SHRJN2NFYWlpS3FHTDdZMEJhampaaWw1Z25DT3BPTGVDaDdRY285bXhLaElDVW5TRU9RalgzdmdoWVJHV3pCZGdoNmlHdzQwMks3bWF3bUR2SGpGNGNQaUoyd0pYc0h4MHJDeEdvMDhuX2txSjV5UQ?oc=5",
-      "pub_ts": 1795305742.0
+      "title": "First Flights, Then Banks: Is the U.S. Under a Coordinated Cyberattack?",
+      "source": "U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUWJieGNoakpmeUVqbkNoRUdWeHRTR0xOY3paQ0hEVE1JcmNXcjgtY0I5bHZCbWtQOGkyRjNLU08xbXlrYVVKTDJIXzBFS2RpMmVnYVV5VU1KbGp5dGtyT0tLQUhnS0w5VzVMWlJfeEw5QTJlbFh6OVBzSUxnRU5qV1o0NzRSTDRJUG9Sc0xsOGNSUjQ1YnE0V1hweGRVbHJxdmZYUUZROUdvRU5CSEJ6UWVldlowcnFrSk9WamNXVlZISHVfMU02T1Jrck5mTXRoNnVsMXlVTQ?oc=5",
+      "pub_ts": 1795035783.0
+    },
+    {
+      "title": "Winnsboro issues emergency water shutdown due to main breach",
+      "source": "KNOE",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORllGUWhrdmhaWVNuNUI2TkotemFiX0JSWk9sV0RCaWZIVFA0YjBNOXlWbU4yUXVRNzc0YjAzRWdaUjhMRTk3YzJlc1l1MkFMcmpSZEpwWThCUmloRDFhdFdYUDJ4bEJYTDlVOTlYT1FEVnlwaTFHSVBZZldLd0RCOWs4MEdMNThpTUZ4aVNqMURVWXRq?oc=5",
+      "pub_ts": 1794556800.0
+    },
+    {
+      "title": "Resilience reports energy and utilities sector faces rising cyber exposure from ransomware, vulnerable OT systems",
+      "source": "Industrial Cyber",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPR2lxTDVueEhsYVMwT0IxbUl4QXhGZkFJS2FuaFlINVozYUlsOFI5c2RURGttbWxYRmVKN082RkxRcVA2Vkk1WXpfOGJmU2VFRGV6OG5OSHVWVWlieFo3Rk8zTkxvczh5aUNBSDlKWk1DN2lldHRCQnpyNEhDMXFfRDJzMnp3aDZ2ZU9jVUlxWFp4NjJOZWtFSXluTHVEbGU3WE1oRVZPRVJ6bTExSlUyRVpfcVU4WTh2UmJiMzkwS1hoRVdFaEFBN3VHZFRlWXBxMFc4dDBYenNZbVVTalVOcGRn?oc=5",
+      "pub_ts": 1792566000.0
     },
     {
       "title": "Water System Cyberattacks Hit 12 US States [2026]",
@@ -26,28 +38,16 @@
       "pub_ts": 1792306800.0
     },
     {
-      "title": "How hackers attack municipal water systems",
-      "source": "Insight News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMEdJODFBZWR5cmEtRW1QdkZReTBxVHhPeDl3aW96M2JYa3lBWFdBczk2TDJVa2NLcUJBcnRPeGhXdW1QQ2ROYzRMTVBhd1FJRVJUa2ZyLVJRbWNPdnJBX2ZsNUdpQjZPc1JaZTNLdGxzM2FKT3picnFwUFlhbTRsMWZ0MlUtTUJ2eUI0dlBTYnNOQU5ocnprS3FGVEQ3VlJCbjhKUldLSFFUa2FqMnZVU0FMZEZHQ3ROMEFQMDZkblpIN2s?oc=5",
-      "pub_ts": 1792220400.0
-    },
-    {
       "title": "Protecting California\u2019s Water from Cyberattacks",
       "source": "Public Policy Institute of California",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PTmJsVnhBWXdHVzZLazBhTEttZWRPTjNMbjJfb1Zvel81a3RLZDRVaW54RE5pZHJFN0FTd1lNa1EtSXFZc3BRUk9wcFZfeVYxNVQ5bTBxRFdNcVk3TXY3YVhWMS13YmZJRE5mTGY1WXNUTUloZXhIZnQ3UUdEQQ?oc=5",
       "pub_ts": 1791183600.0
     },
     {
-      "title": "Iranian hackers widen water system attacks to telecom and energy grids",
-      "source": "Startup Fortune",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVGR1SUZxb3pIWVFmbFFVM0ZFYkdFNkR2aVRCMGwtbkVGd1llWXN4QXdnREZCcEN3RzFvNkdlSzYxRW9QNXZ3MzBacmFhRjFwbHp2YlRncE5PVjZmcXkyLW95NXRiT1czYnFua3BLQmpDV3h3TEdmcnNFQ3I1ME9JdUxlVWdSbllzcEE4UDhIQ0hPTEp6VndIVWxEVGdtZWs?oc=5",
-      "pub_ts": 1791010800.0
-    },
-    {
-      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
-      "source": "Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZm9RamhybVpJbHk5dFFMUVF4aDZka1JDNG54LUstb1NnY2FoZ2RRWHNDdVNZUEtIbjAxUXpXVFEtVkxZMllxS0dTR1QtWHFjbHltdWtSNGlGWDRPSW1Sc0JyQVNFdlBzd1BVbklpU2daT1lNbzhCVmRuZXBPaEFkQ3FDMS1sZUR5RjFXV0VGeFRQY0xBVG84YmdpejNBd0plaFEzMNIBqgFBVV95cUxONDBNTFFZYnJJNUdNYmJ1bnl3TEg2VFFpaUx5M3ZHcFcteDlXeDNnXzVnZ0lXYU9QOW1Pa0tQSk5qd0k5Zk1sZkZWYmlDU3VLOUtKVWdnUEMxbVVlRndNT0RicU03dEdaM2VpRENMQnRjR1hrdEpaeFF6T2NpZU42aVE0SU5Ub2Fxa1k2dE5Gd3BtX29sNUl1VUhFZFUtRjdMZmQtNDNuU0p4dw?oc=5",
-      "pub_ts": 1791010800.0
+      "title": "Cyber Threats Put Water Systems at Risk",
+      "source": "The Pew Charitable Trusts",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbjZiaVFkRWxsZUpQYUJFdnZWd09KcUF5bFBuejllUjVqel9Sb2dER1k0UjJlb1hfa3BYYmE2NUVNamlSWUtRbDZ0cFFQRFczcHBwX3M4akUtRUY2LVExLTBNcFdWdEg3dlZ5M09kYUU4OHZqN09mbDV1VW1hZ3h1TUdlX0xUOFV4aXpxMXpyTDUxVXYwVnNibFp5TXdtUWZiUGRQaVh4UQ?oc=5",
+      "pub_ts": 1790060400.0
     }
   ]
 }
